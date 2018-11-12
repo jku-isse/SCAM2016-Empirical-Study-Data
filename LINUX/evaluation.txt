@@ -1,0 +1,23 @@
+Number of associations: 4929
+Existing Modules:
+order0: 1496
+order1: 2840
+order2: 1182
+order3: 86
+order4: 3
+order5: 1
+Granularity (number of unique artifacts in an association):
+granularity: 11384.739298032055
+Granularity (top unique nodes):
+Scattering:
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTTranslationUnit : 6.340228245363766
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTFunctionDefinition : 55.27781740370899
+Scattering per order:
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTTranslationUnit : 5.4202589641694505, 0.7049047671301594, 0.2011849372691026, 0.013166310033285786, 5.349500713266762E-4, 1.783166904422254E-4, 
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTFunctionDefinition : 35.27771485528261, 15.322001758346271, 4.436324161454333, 0.22519317641464573, 0.010342368045649072, 0.006241084165477888, 
+Tangling:
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTTranslationUnit : 1.4592381769269758
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTFunctionDefinition : 1.2226259978553558
+Dependencies:
+Coupling:
+Cohesion:

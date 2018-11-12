@@ -1,0 +1,2776 @@
+Assoc#0 -> Assoc#1
+VODClient [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+VODClient [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+VODClient [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+VODClient [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+vod [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+VODClient [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+BorderPanel [org.eclipse.jdt.core.dom.SimpleType:43] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+BorderPanel [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+BorderPanel [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+borderPanel [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+VODClient [org.eclipse.jdt.core.dom.SimpleType:43] [UNIQUE] [UNORDERED] <>
+->
+VODClient [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+VODClient [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+VODClient [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+VODClient [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+VODClient [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+vODClient [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+VODClient [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+borderPanel [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+vod=vODClient [org.eclipse.jdt.core.dom.Assignment:7] [UNIQUE] [UNORDERED] <>
+->
+VODClient [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+vod [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+VODClient [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+vODClient [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+VODClient [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+vod [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+VODClient [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+VODClient [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+VODClient [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+VODClient [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+VODClient [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+this$0 [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+VODClient [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+VODClient [org.eclipse.jdt.core.dom.SimpleType:43] [UNIQUE] [UNORDERED] <>
+->
+VODClient [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+VODClient [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+VODClient [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+VODClient [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+VODClient [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+vODClient [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+VODClient [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+this$0=vODClient [org.eclipse.jdt.core.dom.Assignment:7] [UNIQUE] [UNORDERED] <>
+->
+VODClient [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+this$0 [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+VODClient [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+vODClient [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+VODClient [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+this$0 [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+VODClient [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+BorderPanel [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+BorderPanel [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+bevelPanel1 [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+BorderPanel [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+BorderPanel [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+bevelPanel2 [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+VODClient [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+VODClient [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+VODClient [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+VODClient [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+parent [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+VODClient [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+VODClient [org.eclipse.jdt.core.dom.SimpleType:43] [UNIQUE] [UNORDERED] <>
+->
+VODClient [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+VODClient [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+VODClient [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+VODClient [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+VODClient [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+vODClient [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+VODClient [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+bevelPanel1=new BorderPanel(1,new Color(220,220,220),new Color(50,50,50)) [org.eclipse.jdt.core.dom.Assignment:7] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+bevelPanel1 [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+new BorderPanel(1,new Color(220,220,220),new Color(50,50,50)) [org.eclipse.jdt.core.dom.ClassInstanceCreation:14] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel(int, Color, Color) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <>
+new BorderPanel(1,new Color(220,220,220),new Color(50,50,50)) [org.eclipse.jdt.core.dom.ClassInstanceCreation:14] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+BorderPanel [org.eclipse.jdt.core.dom.SimpleType:43] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+BorderPanel [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+BorderPanel [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+bevelPanel2=new BorderPanel(1,new Color(220,220,220),new Color(50,50,50)) [org.eclipse.jdt.core.dom.Assignment:7] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+bevelPanel2 [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+new BorderPanel(1,new Color(220,220,220),new Color(50,50,50)) [org.eclipse.jdt.core.dom.ClassInstanceCreation:14] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel(int, Color, Color) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <>
+new BorderPanel(1,new Color(220,220,220),new Color(50,50,50)) [org.eclipse.jdt.core.dom.ClassInstanceCreation:14] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+BorderPanel [org.eclipse.jdt.core.dom.SimpleType:43] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+BorderPanel [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+BorderPanel [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+parent=vODClient [org.eclipse.jdt.core.dom.Assignment:7] [UNIQUE] [UNORDERED] <>
+->
+VODClient [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+parent [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+VODClient [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+vODClient [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+VODClient [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+parent [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+VODClient [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+bevelPanel1 [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+bevelPanel1 [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+bevelPanel2 [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+bevelPanel2 [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+bevelPanel1 [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+bevelPanel1 [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+bevelPanel2 [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+bevelPanel2 [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+bevelPanel2 [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+bevelPanel2 [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+panel1 [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+this [org.eclipse.jdt.core.dom.ThisExpression:52] [UNIQUE] [UNORDERED] <>
+->
+VODClient [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+panel1.clearscreen() [org.eclipse.jdt.core.dom.MethodInvocation:32] [UNIQUE] [UNORDERED] <>
+->
+clearscreen() [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <>
+panel1 [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+clearscreen [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+clearscreen() [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <>
+BorderPanel [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+BorderPanel [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+screen [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+BorderPanel [org.eclipse.jdt.core.dom.SimpleType:43] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+BorderPanel [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+BorderPanel [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+borderPanel [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+screen=borderPanel [org.eclipse.jdt.core.dom.Assignment:7] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+screen [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+borderPanel [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+screen.setImageSize(sequence.horizontal_size,sequence.vertical_size) [org.eclipse.jdt.core.dom.MethodInvocation:32] [UNIQUE] [UNORDERED] <>
+->
+setImageSize(int, int) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <>
+screen [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+setImageSize [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+setImageSize(int, int) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <>
+screen.setImage(current.getIImage()) [org.eclipse.jdt.core.dom.MethodInvocation:32] [UNIQUE] [UNORDERED] <>
+->
+setImage(Image) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <>
+screen [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+setImage [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+setImage(Image) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <>
+screen.setImage(current.getPImage()) [org.eclipse.jdt.core.dom.MethodInvocation:32] [UNIQUE] [UNORDERED] <>
+->
+setImage(Image) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <>
+screen [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+setImage [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+setImage(Image) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <>
+screen.setImage(current.getImage()) [org.eclipse.jdt.core.dom.MethodInvocation:32] [UNIQUE] [UNORDERED] <>
+->
+setImage(Image) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <>
+screen [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+setImage [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+setImage(Image) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <>
+|^
+BLOCK [org.eclipse.jdt.core.dom.Block:8] [SHARED] [UNORDERED] <>
+|^
+VODClient [org.eclipse.jdt.core.dom.TypeDeclaration:55] [SHARED] [UNORDERED] <>
+Assoc#0 -> Assoc#2
+Assoc#0 -> Assoc#3
+Assoc#0 -> Assoc#4
+Assoc#0 -> Assoc#5
+Assoc#0 -> Assoc#6
+Assoc#0 -> Assoc#7
+Assoc#0 -> Assoc#8
+Assoc#0 -> Assoc#9
+Assoc#0 -> Assoc#10
+Assoc#0 -> Assoc#11
+Assoc#0 -> Assoc#12
+Assoc#0 -> Assoc#13
+Assoc#0 -> Assoc#14
+Assoc#0 -> Assoc#15
+Assoc#0 -> Assoc#16
+Assoc#0 -> Assoc#17
+MPEGDecoder [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+package MPEGDecoder; [org.eclipse.jdt.core.dom.PackageDeclaration:35] [UNIQUE](ATOMIC) [UNORDERED] <>
+MPEGDecoder [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+package MPEGDecoder; [org.eclipse.jdt.core.dom.PackageDeclaration:35] [UNIQUE](ATOMIC) [UNORDERED] <>
+MPEGDecoder [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+package MPEGDecoder; [org.eclipse.jdt.core.dom.PackageDeclaration:35] [UNIQUE](ATOMIC) [UNORDERED] <>
+MPEGDecoder [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+package MPEGDecoder; [org.eclipse.jdt.core.dom.PackageDeclaration:35] [UNIQUE](ATOMIC) [UNORDERED] <>
+MPEGDecoder [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+package MPEGDecoder; [org.eclipse.jdt.core.dom.PackageDeclaration:35] [UNIQUE](ATOMIC) [UNORDERED] <>
+MPEGDecoder [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+package MPEGDecoder; [org.eclipse.jdt.core.dom.PackageDeclaration:35] [UNIQUE](ATOMIC) [UNORDERED] <>
+MPEGDecoder [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+package MPEGDecoder; [org.eclipse.jdt.core.dom.PackageDeclaration:35] [UNIQUE](ATOMIC) [UNORDERED] <>
+MPEGDecoder [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+package MPEGDecoder; [org.eclipse.jdt.core.dom.PackageDeclaration:35] [UNIQUE](ATOMIC) [UNORDERED] <>
+MPEGDecoder [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+package MPEGDecoder; [org.eclipse.jdt.core.dom.PackageDeclaration:35] [UNIQUE](ATOMIC) [UNORDERED] <>
+MPEGDecoder [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+package MPEGDecoder; [org.eclipse.jdt.core.dom.PackageDeclaration:35] [UNIQUE](ATOMIC) [UNORDERED] <>
+MPEGDecoder [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+package MPEGDecoder; [org.eclipse.jdt.core.dom.PackageDeclaration:35] [UNIQUE](ATOMIC) [UNORDERED] <>
+MPEGDecoder [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+package MPEGDecoder; [org.eclipse.jdt.core.dom.PackageDeclaration:35] [UNIQUE](ATOMIC) [UNORDERED] <>
+MPEGDecoder [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+package MPEGDecoder; [org.eclipse.jdt.core.dom.PackageDeclaration:35] [UNIQUE](ATOMIC) [UNORDERED] <>
+MPEGDecoder [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+package MPEGDecoder; [org.eclipse.jdt.core.dom.PackageDeclaration:35] [UNIQUE](ATOMIC) [UNORDERED] <>
+MPEGDecoder [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+package MPEGDecoder; [org.eclipse.jdt.core.dom.PackageDeclaration:35] [UNIQUE](ATOMIC) [UNORDERED] <>
+MPEGDecoder [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+package MPEGDecoder; [org.eclipse.jdt.core.dom.PackageDeclaration:35] [UNIQUE](ATOMIC) [UNORDERED] <>
+MPEGDecoder [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+package MPEGDecoder; [org.eclipse.jdt.core.dom.PackageDeclaration:35] [UNIQUE](ATOMIC) [UNORDERED] <>
+MPEGDecoder [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+package MPEGDecoder; [org.eclipse.jdt.core.dom.PackageDeclaration:35] [UNIQUE](ATOMIC) [UNORDERED] <>
+MPEGDecoder [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+package MPEGDecoder; [org.eclipse.jdt.core.dom.PackageDeclaration:35] [UNIQUE](ATOMIC) [UNORDERED] <>
+Assoc#0 -> Assoc#18
+Assoc#0 -> Assoc#19
+Assoc#0 -> Assoc#20
+Assoc#0 -> Assoc#21
+Assoc#0 -> Assoc#22
+Assoc#0 -> Assoc#23
+Assoc#0 -> Assoc#24
+Assoc#0 -> Assoc#25
+Assoc#0 -> Assoc#26
+Assoc#0 -> Assoc#27
+Assoc#1 -> Assoc#0
+BitInputStream [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BitInputStream [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+BitInputStream [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BitInputStream [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+in [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BitInputStream [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+DataStore [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+DataStore [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+DataStore [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+DataStore [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+store [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+DataStore [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+BitInputStream [org.eclipse.jdt.core.dom.SimpleType:43] [UNIQUE] [UNORDERED] <>
+->
+BitInputStream [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+BitInputStream [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BitInputStream [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+BitInputStream [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BitInputStream [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+bitInputStream [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BitInputStream [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+DataStore [org.eclipse.jdt.core.dom.SimpleType:43] [UNIQUE] [UNORDERED] <>
+->
+DataStore [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+DataStore [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+DataStore [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+DataStore [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+DataStore [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+dataStore [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+DataStore [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+in=bitInputStream [org.eclipse.jdt.core.dom.Assignment:7] [UNIQUE] [UNORDERED] <>
+->
+BitInputStream [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+in [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BitInputStream [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+bitInputStream [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BitInputStream [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+store=dataStore [org.eclipse.jdt.core.dom.Assignment:7] [UNIQUE] [UNORDERED] <>
+->
+DataStore [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+store [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+DataStore [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+dataStore [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+DataStore [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+in.nextbits(5) [org.eclipse.jdt.core.dom.MethodInvocation:32] [UNIQUE] [UNORDERED] <>
+->
+nextbits(int) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <>
+in [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BitInputStream [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+nextbits [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+nextbits(int) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <>
+in.flushbits(DCchromtab0[i][1]) [org.eclipse.jdt.core.dom.MethodInvocation:32] [UNIQUE] [UNORDERED] <>
+->
+flushbits(int) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <>
+in [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BitInputStream [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+flushbits [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+flushbits(int) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <>
+in.readbits(j) [org.eclipse.jdt.core.dom.MethodInvocation:32] [UNIQUE] [UNORDERED] <>
+->
+readbits(int) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <>
+in [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BitInputStream [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+readbits [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+readbits(int) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <>
+in.nextbits(5) [org.eclipse.jdt.core.dom.MethodInvocation:32] [UNIQUE] [UNORDERED] <>
+->
+nextbits(int) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <>
+in [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BitInputStream [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+nextbits [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+nextbits(int) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <>
+in.flushbits(DClumtab0[i][1]) [org.eclipse.jdt.core.dom.MethodInvocation:32] [UNIQUE] [UNORDERED] <>
+->
+flushbits(int) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <>
+in [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BitInputStream [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+flushbits [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+flushbits(int) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <>
+in.readbits(j) [org.eclipse.jdt.core.dom.MethodInvocation:32] [UNIQUE] [UNORDERED] <>
+->
+readbits(int) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <>
+in [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BitInputStream [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+readbits [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+readbits(int) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <>
+store.getblock(i1) [org.eclipse.jdt.core.dom.MethodInvocation:32] [UNIQUE] [UNORDERED] <>
+->
+getblock(int) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <>
+store [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+DataStore [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+getblock [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+getblock(int) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <>
+in.nextbits(16) [org.eclipse.jdt.core.dom.MethodInvocation:32] [UNIQUE] [UNORDERED] <>
+->
+nextbits(int) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <>
+in [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BitInputStream [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+nextbits [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+nextbits(int) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <>
+in.flushbits(an1[2]) [org.eclipse.jdt.core.dom.MethodInvocation:32] [UNIQUE] [UNORDERED] <>
+->
+flushbits(int) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <>
+in [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BitInputStream [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+flushbits [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+flushbits(int) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <>
+in.readbits(6) [org.eclipse.jdt.core.dom.MethodInvocation:32] [UNIQUE] [UNORDERED] <>
+->
+readbits(int) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <>
+in [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BitInputStream [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+readbits [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+readbits(int) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <>
+in.readbits(8) [org.eclipse.jdt.core.dom.MethodInvocation:32] [UNIQUE] [UNORDERED] <>
+->
+readbits(int) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <>
+in [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BitInputStream [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+readbits [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+readbits(int) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <>
+in.readbits(8) [org.eclipse.jdt.core.dom.MethodInvocation:32] [UNIQUE] [UNORDERED] <>
+->
+readbits(int) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <>
+in [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BitInputStream [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+readbits [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+readbits(int) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <>
+in.readbits(8) [org.eclipse.jdt.core.dom.MethodInvocation:32] [UNIQUE] [UNORDERED] <>
+->
+readbits(int) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <>
+in [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BitInputStream [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+readbits [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+readbits(int) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <>
+DataStore [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+DataStore [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+DataStore [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+DataStore [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+store.getquant_scale() [org.eclipse.jdt.core.dom.MethodInvocation:32] [UNIQUE] [UNORDERED] <>
+->
+getquant_scale() [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <>
+store [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+DataStore [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+getquant_scale [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+getquant_scale() [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <>
+store [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+DataStore [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+store.getblock(i1) [org.eclipse.jdt.core.dom.MethodInvocation:32] [UNIQUE] [UNORDERED] <>
+->
+getblock(int) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <>
+store [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+DataStore [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+getblock [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+getblock(int) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <>
+in.nextbits(16) [org.eclipse.jdt.core.dom.MethodInvocation:32] [UNIQUE] [UNORDERED] <>
+->
+nextbits(int) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <>
+in [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BitInputStream [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+nextbits [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+nextbits(int) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <>
+in.flushbits(an2[2]) [org.eclipse.jdt.core.dom.MethodInvocation:32] [UNIQUE] [UNORDERED] <>
+->
+flushbits(int) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <>
+in [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BitInputStream [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+flushbits [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+flushbits(int) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <>
+in.readbits(6) [org.eclipse.jdt.core.dom.MethodInvocation:32] [UNIQUE] [UNORDERED] <>
+->
+readbits(int) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <>
+in [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BitInputStream [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+readbits [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+readbits(int) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <>
+in.readbits(8) [org.eclipse.jdt.core.dom.MethodInvocation:32] [UNIQUE] [UNORDERED] <>
+->
+readbits(int) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <>
+in [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BitInputStream [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+readbits [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+readbits(int) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <>
+in.readbits(8) [org.eclipse.jdt.core.dom.MethodInvocation:32] [UNIQUE] [UNORDERED] <>
+->
+readbits(int) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <>
+in [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BitInputStream [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+readbits [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+readbits(int) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <>
+in.readbits(8) [org.eclipse.jdt.core.dom.MethodInvocation:32] [UNIQUE] [UNORDERED] <>
+->
+readbits(int) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <>
+in [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BitInputStream [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+readbits [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+readbits(int) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <>
+DataStore [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+DataStore [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+DataStore [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+DataStore [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+store.getquant_scale() [org.eclipse.jdt.core.dom.MethodInvocation:32] [UNIQUE] [UNORDERED] <>
+->
+getquant_scale() [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <>
+store [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+DataStore [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+getquant_scale [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+getquant_scale() [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <>
+store [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+DataStore [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+store.getmacroblock_type() [org.eclipse.jdt.core.dom.MethodInvocation:32] [UNIQUE] [UNORDERED] <>
+->
+getmacroblock_type() [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <>
+store [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+DataStore [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+getmacroblock_type [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+getmacroblock_type() [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <>
+BitInputStream [org.eclipse.jdt.core.dom.SimpleType:43] [UNIQUE] [UNORDERED] <>
+->
+BitInputStream [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+BitInputStream [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BitInputStream [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+BitInputStream [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BitInputStream [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+bitInputStream [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BitInputStream [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+in=bitInputStream [org.eclipse.jdt.core.dom.Assignment:7] [UNIQUE] [UNORDERED] <>
+->
+BitInputStream [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+in [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BitInputStream [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+bitInputStream [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BitInputStream [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+BitInputStream [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BitInputStream [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+BitInputStream [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BitInputStream [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+instream [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BitInputStream [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+MacroblockNew [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+MacroblockNew [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+MacroblockNew [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+MacroblockNew [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+macro [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+MacroblockNew [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+DataStore [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+DataStore [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+DataStore [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+DataStore [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+store [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+DataStore [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+BitInputStream [org.eclipse.jdt.core.dom.SimpleType:43] [UNIQUE] [UNORDERED] <>
+->
+BitInputStream [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+BitInputStream [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BitInputStream [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+BitInputStream [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BitInputStream [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+instream [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BitInputStream [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+DataStore [org.eclipse.jdt.core.dom.SimpleType:43] [UNIQUE] [UNORDERED] <>
+->
+DataStore [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+DataStore [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+DataStore [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+DataStore [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+DataStore [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+store [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+DataStore [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+this.instream=instream [org.eclipse.jdt.core.dom.Assignment:7] [UNIQUE] [UNORDERED] <>
+->
+BitInputStream [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+this.instream [org.eclipse.jdt.core.dom.FieldAccess:22] [UNIQUE] [UNORDERED] <>
+->
+BitInputStream [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+instream [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BitInputStream [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+instream [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BitInputStream [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+this.store=store [org.eclipse.jdt.core.dom.Assignment:7] [UNIQUE] [UNORDERED] <>
+->
+DataStore [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+this.store [org.eclipse.jdt.core.dom.FieldAccess:22] [UNIQUE] [UNORDERED] <>
+->
+DataStore [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+store [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+DataStore [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+store [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+DataStore [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+macro=new MacroblockNew(instream,store) [org.eclipse.jdt.core.dom.Assignment:7] [UNIQUE] [UNORDERED] <>
+->
+MacroblockNew [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+macro [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+MacroblockNew [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+new MacroblockNew(instream,store) [org.eclipse.jdt.core.dom.ClassInstanceCreation:14] [UNIQUE] [UNORDERED] <>
+->
+MacroblockNew(BitInputStream, DataStore) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <>
+new MacroblockNew(instream,store) [org.eclipse.jdt.core.dom.ClassInstanceCreation:14] [UNIQUE] [UNORDERED] <>
+->
+MacroblockNew [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+MacroblockNew [org.eclipse.jdt.core.dom.SimpleType:43] [UNIQUE] [UNORDERED] <>
+->
+MacroblockNew [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+MacroblockNew [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+MacroblockNew [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+MacroblockNew [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+MacroblockNew [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+instream [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BitInputStream [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+store [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+DataStore [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+BitInputStream [org.eclipse.jdt.core.dom.SimpleType:43] [UNIQUE] [UNORDERED] <>
+->
+BitInputStream [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+BitInputStream [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BitInputStream [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+BitInputStream [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BitInputStream [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+in [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BitInputStream [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+instream=in [org.eclipse.jdt.core.dom.Assignment:7] [UNIQUE] [UNORDERED] <>
+->
+BitInputStream [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+instream [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BitInputStream [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+in [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BitInputStream [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+macro.setstream(instream) [org.eclipse.jdt.core.dom.MethodInvocation:32] [UNIQUE] [UNORDERED] <>
+->
+setstream(BitInputStream) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <>
+macro [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+MacroblockNew [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+setstream [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+setstream(BitInputStream) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <>
+instream [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BitInputStream [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+instream.readint() [org.eclipse.jdt.core.dom.MethodInvocation:32] [UNIQUE] [UNORDERED] <>
+->
+readint() [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <>
+instream [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BitInputStream [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+readint [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+readint() [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <>
+instream.readbits(5) [org.eclipse.jdt.core.dom.MethodInvocation:32] [UNIQUE] [UNORDERED] <>
+->
+readbits(int) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <>
+instream [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BitInputStream [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+readbits [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+readbits(int) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <>
+instream.nextbits(1) [org.eclipse.jdt.core.dom.MethodInvocation:32] [UNIQUE] [UNORDERED] <>
+->
+nextbits(int) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <>
+instream [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BitInputStream [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+nextbits [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+nextbits(int) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <>
+instream.readbits(1) [org.eclipse.jdt.core.dom.MethodInvocation:32] [UNIQUE] [UNORDERED] <>
+->
+readbits(int) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <>
+instream [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BitInputStream [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+readbits [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+readbits(int) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <>
+instream.readbyte() [org.eclipse.jdt.core.dom.MethodInvocation:32] [UNIQUE] [UNORDERED] <>
+->
+readbyte() [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <>
+instream [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BitInputStream [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+readbyte [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+readbyte() [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <>
+instream.readbits(1) [org.eclipse.jdt.core.dom.MethodInvocation:32] [UNIQUE] [UNORDERED] <>
+->
+readbits(int) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <>
+instream [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BitInputStream [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+readbits [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+readbits(int) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <>
+store.resetMBA() [org.eclipse.jdt.core.dom.MethodInvocation:32] [UNIQUE] [UNORDERED] <>
+->
+resetMBA() [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <>
+store [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+DataStore [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+resetMBA [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+resetMBA() [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <>
+macro.read_macroblock() [org.eclipse.jdt.core.dom.MethodInvocation:32] [UNIQUE] [UNORDERED] <>
+->
+read_macroblock() [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <>
+macro [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+MacroblockNew [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+read_macroblock [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+read_macroblock() [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <>
+instream.nextbits(23) [org.eclipse.jdt.core.dom.MethodInvocation:32] [UNIQUE] [UNORDERED] <>
+->
+nextbits(int) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <>
+instream [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BitInputStream [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+nextbits [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+nextbits(int) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <>
+instream.next_start_code() [org.eclipse.jdt.core.dom.MethodInvocation:32] [UNIQUE] [UNORDERED] <>
+->
+next_start_code() [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <>
+instream [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BitInputStream [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+next_start_code [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+next_start_code() [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <>
+instream.nextbits(32) [org.eclipse.jdt.core.dom.MethodInvocation:32] [UNIQUE] [UNORDERED] <>
+->
+nextbits(int) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <>
+instream [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BitInputStream [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+nextbits [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+nextbits(int) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <>
+Assoc#1 -> Assoc#2
+Assoc#1 -> Assoc#3
+Assoc#1 -> Assoc#4
+Assoc#1 -> Assoc#5
+Assoc#1 -> Assoc#6
+Assoc#1 -> Assoc#7
+Assoc#1 -> Assoc#8
+Assoc#1 -> Assoc#9
+Assoc#1 -> Assoc#10
+Assoc#1 -> Assoc#11
+Assoc#1 -> Assoc#12
+Assoc#1 -> Assoc#13
+Assoc#1 -> Assoc#14
+Assoc#1 -> Assoc#15
+Assoc#1 -> Assoc#16
+Assoc#1 -> Assoc#17
+MPEGDecoder [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+package MPEGDecoder; [org.eclipse.jdt.core.dom.PackageDeclaration:35] [UNIQUE](ATOMIC) [UNORDERED] <>
+MPEGDecoder [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+package MPEGDecoder; [org.eclipse.jdt.core.dom.PackageDeclaration:35] [UNIQUE](ATOMIC) [UNORDERED] <>
+MPEGDecoder [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+package MPEGDecoder; [org.eclipse.jdt.core.dom.PackageDeclaration:35] [UNIQUE](ATOMIC) [UNORDERED] <>
+MPEGDecoder [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+package MPEGDecoder; [org.eclipse.jdt.core.dom.PackageDeclaration:35] [UNIQUE](ATOMIC) [UNORDERED] <>
+MPEGDecoder [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+package MPEGDecoder; [org.eclipse.jdt.core.dom.PackageDeclaration:35] [UNIQUE](ATOMIC) [UNORDERED] <>
+MPEGDecoder [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+package MPEGDecoder; [org.eclipse.jdt.core.dom.PackageDeclaration:35] [UNIQUE](ATOMIC) [UNORDERED] <>
+MPEGDecoder [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+package MPEGDecoder; [org.eclipse.jdt.core.dom.PackageDeclaration:35] [UNIQUE](ATOMIC) [UNORDERED] <>
+MPEGDecoder [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+package MPEGDecoder; [org.eclipse.jdt.core.dom.PackageDeclaration:35] [UNIQUE](ATOMIC) [UNORDERED] <>
+MPEGDecoder [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+package MPEGDecoder; [org.eclipse.jdt.core.dom.PackageDeclaration:35] [UNIQUE](ATOMIC) [UNORDERED] <>
+MPEGDecoder [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+package MPEGDecoder; [org.eclipse.jdt.core.dom.PackageDeclaration:35] [UNIQUE](ATOMIC) [UNORDERED] <>
+MPEGDecoder [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+package MPEGDecoder; [org.eclipse.jdt.core.dom.PackageDeclaration:35] [UNIQUE](ATOMIC) [UNORDERED] <>
+MPEGDecoder [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+package MPEGDecoder; [org.eclipse.jdt.core.dom.PackageDeclaration:35] [UNIQUE](ATOMIC) [UNORDERED] <>
+Assoc#1 -> Assoc#18
+Assoc#1 -> Assoc#19
+Assoc#1 -> Assoc#20
+Assoc#1 -> Assoc#21
+Assoc#1 -> Assoc#22
+Assoc#1 -> Assoc#23
+Assoc#1 -> Assoc#24
+Assoc#1 -> Assoc#25
+Assoc#1 -> Assoc#26
+Assoc#1 -> Assoc#27
+Assoc#2 -> Assoc#0
+curmovie [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+Movie [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+video.stopmovie() [org.eclipse.jdt.core.dom.MethodInvocation:32] [UNIQUE] [UNORDERED] <>
+->
+stopmovie() [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <>
+video [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+Video [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+stopmovie [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+stopmovie() [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <>
+|^
+BLOCK [org.eclipse.jdt.core.dom.Block:8] [SHARED] [UNORDERED] <>
+Assoc#2 -> Assoc#1
+vod [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+VODClient [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+Assoc#2 -> Assoc#3
+Assoc#2 -> Assoc#4
+vod.stopmovie() [org.eclipse.jdt.core.dom.MethodInvocation:32] [UNIQUE] [UNORDERED] <>
+->
+stopmovie() [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <>
+stopmovie [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+stopmovie() [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <>
+|^
+BLOCK [org.eclipse.jdt.core.dom.Block:8] [SHARED] [UNORDERED] <>
+Assoc#2 -> Assoc#5
+Assoc#2 -> Assoc#6
+Assoc#2 -> Assoc#7
+Assoc#2 -> Assoc#8
+Assoc#2 -> Assoc#9
+Assoc#2 -> Assoc#10
+Assoc#2 -> Assoc#11
+Assoc#2 -> Assoc#12
+Assoc#2 -> Assoc#13
+Assoc#2 -> Assoc#14
+Assoc#2 -> Assoc#15
+Assoc#2 -> Assoc#16
+Assoc#2 -> Assoc#17
+Assoc#2 -> Assoc#18
+Assoc#2 -> Assoc#19
+Assoc#2 -> Assoc#20
+Assoc#2 -> Assoc#21
+Assoc#2 -> Assoc#22
+Assoc#2 -> Assoc#23
+Assoc#2 -> Assoc#24
+Assoc#2 -> Assoc#25
+Assoc#2 -> Assoc#26
+Assoc#2 -> Assoc#27
+Assoc#3 -> Assoc#0
+ListFrame [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+ListFrame [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+ListFrame [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+ListFrame [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+listframe [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+ListFrame [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+ListFrame [org.eclipse.jdt.core.dom.SimpleType:43] [UNIQUE] [UNORDERED] <>
+->
+ListFrame [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+ListFrame [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+ListFrame [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+ListFrame [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+ListFrame [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+listFrame [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+ListFrame [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+listframe=listFrame [org.eclipse.jdt.core.dom.Assignment:7] [UNIQUE] [UNORDERED] <>
+->
+ListFrame [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+listframe [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+ListFrame [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+listFrame [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+ListFrame [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+listframe [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+ListFrame [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+listframe [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+ListFrame [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+Assoc#3 -> Assoc#1
+BorderPanel [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+BorderPanel [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+bevelPanel1 [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+BorderPanel [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+BorderPanel [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+bevelPanel2 [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+bevelPanel1=new BorderPanel(1,new Color(220,220,220),new Color(50,50,50)) [org.eclipse.jdt.core.dom.Assignment:7] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+bevelPanel1 [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+new BorderPanel(1,new Color(220,220,220),new Color(50,50,50)) [org.eclipse.jdt.core.dom.ClassInstanceCreation:14] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel(int, Color, Color) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <>
+new BorderPanel(1,new Color(220,220,220),new Color(50,50,50)) [org.eclipse.jdt.core.dom.ClassInstanceCreation:14] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+BorderPanel [org.eclipse.jdt.core.dom.SimpleType:43] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+BorderPanel [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+BorderPanel [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+bevelPanel2=new BorderPanel(1,new Color(220,220,220),new Color(50,50,50)) [org.eclipse.jdt.core.dom.Assignment:7] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+bevelPanel2 [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+new BorderPanel(1,new Color(220,220,220),new Color(50,50,50)) [org.eclipse.jdt.core.dom.ClassInstanceCreation:14] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel(int, Color, Color) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <>
+new BorderPanel(1,new Color(220,220,220),new Color(50,50,50)) [org.eclipse.jdt.core.dom.ClassInstanceCreation:14] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+BorderPanel [org.eclipse.jdt.core.dom.SimpleType:43] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+BorderPanel [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+BorderPanel [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+bevelPanel1 [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+bevelPanel1 [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+bevelPanel2 [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+bevelPanel2 [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+bevelPanel1 [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+bevelPanel1 [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+bevelPanel2 [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+bevelPanel2 [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+bevelPanel2 [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+Assoc#3 -> Assoc#2
+Assoc#3 -> Assoc#4
+Assoc#3 -> Assoc#5
+Assoc#3 -> Assoc#6
+listframe.changeserver(string) [org.eclipse.jdt.core.dom.MethodInvocation:32] [UNIQUE] [UNORDERED] <>
+->
+changeserver(String) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <>
+changeserver [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+changeserver(String) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <>
+listframe.changeserver(string) [org.eclipse.jdt.core.dom.MethodInvocation:32] [UNIQUE] [UNORDERED] <>
+->
+changeserver(String) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <>
+changeserver [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+changeserver(String) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <>
+Assoc#3 -> Assoc#7
+Assoc#3 -> Assoc#8
+Assoc#3 -> Assoc#9
+Assoc#3 -> Assoc#10
+Assoc#3 -> Assoc#11
+Assoc#3 -> Assoc#12
+Assoc#3 -> Assoc#13
+Assoc#3 -> Assoc#14
+Assoc#3 -> Assoc#15
+Assoc#3 -> Assoc#16
+Assoc#3 -> Assoc#17
+MPEGDecoder [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+package MPEGDecoder; [org.eclipse.jdt.core.dom.PackageDeclaration:35] [UNIQUE](ATOMIC) [UNORDERED] <>
+MPEGDecoder [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+package MPEGDecoder; [org.eclipse.jdt.core.dom.PackageDeclaration:35] [UNIQUE](ATOMIC) [UNORDERED] <>
+MPEGDecoder [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+package MPEGDecoder; [org.eclipse.jdt.core.dom.PackageDeclaration:35] [UNIQUE](ATOMIC) [UNORDERED] <>
+MPEGDecoder [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+package MPEGDecoder; [org.eclipse.jdt.core.dom.PackageDeclaration:35] [UNIQUE](ATOMIC) [UNORDERED] <>
+Assoc#3 -> Assoc#18
+Assoc#3 -> Assoc#19
+Assoc#3 -> Assoc#20
+Assoc#3 -> Assoc#21
+Assoc#3 -> Assoc#22
+Assoc#3 -> Assoc#23
+Assoc#3 -> Assoc#24
+Assoc#3 -> Assoc#25
+Assoc#3 -> Assoc#26
+Assoc#3 -> Assoc#27
+Assoc#4 -> Assoc#0
+curmovie [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+Movie [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+Assoc#4 -> Assoc#1
+VODClient [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+VODClient [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+VODClient [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+VODClient [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+this$0 [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+VODClient [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+VODClient [org.eclipse.jdt.core.dom.SimpleType:43] [UNIQUE] [UNORDERED] <>
+->
+VODClient [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+VODClient [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+VODClient [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+VODClient [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+VODClient [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+vODClient [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+VODClient [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+this$0=vODClient [org.eclipse.jdt.core.dom.Assignment:7] [UNIQUE] [UNORDERED] <>
+->
+VODClient [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+this$0 [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+VODClient [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+vODClient [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+VODClient [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+this$0 [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+VODClient [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+|^
+VODClient [org.eclipse.jdt.core.dom.TypeDeclaration:55] [SHARED] [UNORDERED] <>
+Assoc#4 -> Assoc#2
+Assoc#4 -> Assoc#3
+Assoc#4 -> Assoc#5
+Assoc#4 -> Assoc#6
+Assoc#4 -> Assoc#7
+Assoc#4 -> Assoc#8
+Assoc#4 -> Assoc#9
+Assoc#4 -> Assoc#10
+Assoc#4 -> Assoc#11
+Assoc#4 -> Assoc#12
+Assoc#4 -> Assoc#13
+Assoc#4 -> Assoc#14
+Assoc#4 -> Assoc#15
+Assoc#4 -> Assoc#16
+Assoc#4 -> Assoc#17
+MPEGDecoder [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+package MPEGDecoder; [org.eclipse.jdt.core.dom.PackageDeclaration:35] [UNIQUE](ATOMIC) [UNORDERED] <>
+Assoc#4 -> Assoc#18
+Assoc#4 -> Assoc#19
+Assoc#4 -> Assoc#20
+Assoc#4 -> Assoc#21
+Assoc#4 -> Assoc#22
+Assoc#4 -> Assoc#23
+Assoc#4 -> Assoc#24
+Assoc#4 -> Assoc#25
+Assoc#4 -> Assoc#26
+Assoc#4 -> Assoc#27
+Assoc#5 -> Assoc#0
+Movie [org.eclipse.jdt.core.dom.SimpleType:43] [UNIQUE] [UNORDERED] <>
+->
+Movie [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+Movie [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+Movie [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+Movie [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+Movie [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+movie [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+Movie [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+movie.gettitle() [org.eclipse.jdt.core.dom.MethodInvocation:32] [UNIQUE] [UNORDERED] <>
+->
+gettitle() [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <>
+movie [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+Movie [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+gettitle [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+gettitle() [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <>
+movie.getactor() [org.eclipse.jdt.core.dom.MethodInvocation:32] [UNIQUE] [UNORDERED] <>
+->
+getactor() [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <>
+movie [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+Movie [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+getactor [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+getactor() [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <>
+movie.getdirector() [org.eclipse.jdt.core.dom.MethodInvocation:32] [UNIQUE] [UNORDERED] <>
+->
+getdirector() [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <>
+movie [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+Movie [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+getdirector [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+getdirector() [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <>
+movie.getdescription() [org.eclipse.jdt.core.dom.MethodInvocation:32] [UNIQUE] [UNORDERED] <>
+->
+getdescription() [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <>
+movie [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+Movie [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+getdescription [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+getdescription() [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <>
+Movie [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+Movie [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+Movie [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+Movie [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+movie [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+Movie [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+server.getmovie(string) [org.eclipse.jdt.core.dom.MethodInvocation:32] [UNIQUE] [UNORDERED] <>
+->
+getmovie(String) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <>
+server.getmovie(string) [org.eclipse.jdt.core.dom.MethodInvocation:32] [UNIQUE] [UNORDERED] <>
+->
+Movie [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+server [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+ServerReq [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+getmovie [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+getmovie(String) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <>
+getmovie [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+Movie [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+movie [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+Movie [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+movie [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+Movie [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+this [org.eclipse.jdt.core.dom.ThisExpression:52] [UNIQUE] [UNORDERED] <>
+->
+ListFrame [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+ListFrame [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+ListFrame [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+ListFrame [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+ListFrame [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+this$0 [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+ListFrame [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+ListFrame [org.eclipse.jdt.core.dom.SimpleType:43] [UNIQUE] [UNORDERED] <>
+->
+ListFrame [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+ListFrame [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+ListFrame [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+ListFrame [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+ListFrame [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+listFrame [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+ListFrame [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+this$0=listFrame [org.eclipse.jdt.core.dom.Assignment:7] [UNIQUE] [UNORDERED] <>
+->
+ListFrame [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+this$0 [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+ListFrame [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+listFrame [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+ListFrame [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+this$0 [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+ListFrame [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+|^
+BLOCK [org.eclipse.jdt.core.dom.Block:8] [SHARED] [UNORDERED] <>
+|^
+ListFrame [org.eclipse.jdt.core.dom.TypeDeclaration:55] [SHARED] [UNORDERED] <>
+Assoc#5 -> Assoc#1
+BorderPanel [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+BorderPanel [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+bevelPanel1 [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+BorderPanel [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+BorderPanel [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+bevelPanel2 [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+bevelPanel1=new BorderPanel(1,new Color(220,220,220),new Color(50,50,50)) [org.eclipse.jdt.core.dom.Assignment:7] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+bevelPanel1 [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+new BorderPanel(1,new Color(220,220,220),new Color(50,50,50)) [org.eclipse.jdt.core.dom.ClassInstanceCreation:14] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel(int, Color, Color) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <>
+new BorderPanel(1,new Color(220,220,220),new Color(50,50,50)) [org.eclipse.jdt.core.dom.ClassInstanceCreation:14] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+BorderPanel [org.eclipse.jdt.core.dom.SimpleType:43] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+BorderPanel [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+BorderPanel [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+bevelPanel2=new BorderPanel(1,new Color(220,220,220),new Color(50,50,50)) [org.eclipse.jdt.core.dom.Assignment:7] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+bevelPanel2 [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+new BorderPanel(1,new Color(220,220,220),new Color(50,50,50)) [org.eclipse.jdt.core.dom.ClassInstanceCreation:14] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel(int, Color, Color) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <>
+new BorderPanel(1,new Color(220,220,220),new Color(50,50,50)) [org.eclipse.jdt.core.dom.ClassInstanceCreation:14] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+BorderPanel [org.eclipse.jdt.core.dom.SimpleType:43] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+BorderPanel [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+BorderPanel [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+bevelPanel1 [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+bevelPanel1 [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+bevelPanel2 [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+bevelPanel2 [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+bevelPanel1 [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+bevelPanel1 [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+bevelPanel2 [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+bevelPanel2 [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+bevelPanel2 [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+bevelPanel2 [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+bevelPanel2 [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+bevelPanel2 [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+Assoc#5 -> Assoc#2
+Assoc#5 -> Assoc#3
+Assoc#5 -> Assoc#4
+Assoc#5 -> Assoc#6
+Assoc#5 -> Assoc#7
+Assoc#5 -> Assoc#8
+Assoc#5 -> Assoc#9
+Assoc#5 -> Assoc#10
+Assoc#5 -> Assoc#11
+Assoc#5 -> Assoc#12
+Assoc#5 -> Assoc#13
+Assoc#5 -> Assoc#14
+Assoc#5 -> Assoc#15
+Assoc#5 -> Assoc#16
+Assoc#5 -> Assoc#17
+MPEGDecoder [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+package MPEGDecoder; [org.eclipse.jdt.core.dom.PackageDeclaration:35] [UNIQUE](ATOMIC) [UNORDERED] <>
+MPEGDecoder [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+package MPEGDecoder; [org.eclipse.jdt.core.dom.PackageDeclaration:35] [UNIQUE](ATOMIC) [UNORDERED] <>
+MPEGDecoder [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+package MPEGDecoder; [org.eclipse.jdt.core.dom.PackageDeclaration:35] [UNIQUE](ATOMIC) [UNORDERED] <>
+Assoc#5 -> Assoc#18
+Assoc#5 -> Assoc#19
+Assoc#5 -> Assoc#20
+Assoc#5 -> Assoc#21
+Assoc#5 -> Assoc#22
+Assoc#5 -> Assoc#23
+Assoc#5 -> Assoc#24
+Assoc#5 -> Assoc#25
+Assoc#5 -> Assoc#26
+Assoc#5 -> Assoc#27
+Assoc#6 -> Assoc#0
+this [org.eclipse.jdt.core.dom.ThisExpression:52] [UNIQUE] [UNORDERED] <>
+->
+ListFrame [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+server.connect(string) [org.eclipse.jdt.core.dom.MethodInvocation:32] [UNIQUE] [UNORDERED] <>
+->
+connect(String) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <>
+server [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+ServerReq [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+connect [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+connect(String) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <>
+hostreset() [org.eclipse.jdt.core.dom.MethodInvocation:32] [UNIQUE] [UNORDERED] <>
+->
+hostreset() [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <>
+hostreset [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+hostreset() [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <>
+this [org.eclipse.jdt.core.dom.ThisExpression:52] [UNIQUE] [UNORDERED] <>
+->
+ListFrame [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+ListFrame [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+ListFrame [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+ListFrame [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+ListFrame [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+this$0 [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+ListFrame [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+ListFrame [org.eclipse.jdt.core.dom.SimpleType:43] [UNIQUE] [UNORDERED] <>
+->
+ListFrame [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+ListFrame [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+ListFrame [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+ListFrame [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+ListFrame [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+listFrame [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+ListFrame [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+this$0=listFrame [org.eclipse.jdt.core.dom.Assignment:7] [UNIQUE] [UNORDERED] <>
+->
+ListFrame [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+this$0 [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+ListFrame [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+listFrame [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+ListFrame [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+this$0 [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+ListFrame [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+|^
+ListFrame [org.eclipse.jdt.core.dom.TypeDeclaration:55] [SHARED] [UNORDERED] <>
+|^
+BLOCK [org.eclipse.jdt.core.dom.Block:8] [SHARED] [UNORDERED] <>
+Assoc#6 -> Assoc#1
+parent.clearmovie() [org.eclipse.jdt.core.dom.MethodInvocation:32] [UNIQUE] [UNORDERED] <>
+->
+clearmovie() [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <>
+parent [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+VODClient [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+clearmovie [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+clearmovie() [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <>
+bevelPanel2 [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+Assoc#6 -> Assoc#2
+Assoc#6 -> Assoc#3
+ServerSelect [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+ServerSelect [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+ServerSelect [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+ServerSelect [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+serverselect [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+ServerSelect [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+serverselect=new ServerSelect(this) [org.eclipse.jdt.core.dom.Assignment:7] [UNIQUE] [UNORDERED] <>
+->
+ServerSelect [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+serverselect [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+ServerSelect [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+new ServerSelect(this) [org.eclipse.jdt.core.dom.ClassInstanceCreation:14] [UNIQUE] [UNORDERED] <>
+->
+ServerSelect(ListFrame) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <>
+new ServerSelect(this) [org.eclipse.jdt.core.dom.ClassInstanceCreation:14] [UNIQUE] [UNORDERED] <>
+->
+ServerSelect [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+ServerSelect [org.eclipse.jdt.core.dom.SimpleType:43] [UNIQUE] [UNORDERED] <>
+->
+ServerSelect [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+ServerSelect [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+ServerSelect [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+ServerSelect [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+ServerSelect [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+serverselect [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+ServerSelect [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+Assoc#6 -> Assoc#4
+Assoc#6 -> Assoc#5
+Assoc#6 -> Assoc#7
+Assoc#6 -> Assoc#8
+Assoc#6 -> Assoc#9
+Assoc#6 -> Assoc#10
+Assoc#6 -> Assoc#11
+Assoc#6 -> Assoc#12
+Assoc#6 -> Assoc#13
+Assoc#6 -> Assoc#14
+Assoc#6 -> Assoc#15
+Assoc#6 -> Assoc#16
+Assoc#6 -> Assoc#17
+MPEGDecoder [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+package MPEGDecoder; [org.eclipse.jdt.core.dom.PackageDeclaration:35] [UNIQUE](ATOMIC) [UNORDERED] <>
+Assoc#6 -> Assoc#18
+Assoc#6 -> Assoc#19
+Assoc#6 -> Assoc#20
+Assoc#6 -> Assoc#21
+Assoc#6 -> Assoc#22
+Assoc#6 -> Assoc#23
+Assoc#6 -> Assoc#24
+Assoc#6 -> Assoc#25
+Assoc#6 -> Assoc#26
+Assoc#6 -> Assoc#27
+Assoc#7 -> Assoc#0
+Assoc#7 -> Assoc#1
+BorderPanel [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+BorderPanel [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+bevelPanel2 [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+BorderPanel [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+BorderPanel [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+bevelPanel3 [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+BorderPanel [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+BorderPanel [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+panel1 [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+BorderPanel [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+BorderPanel [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+panel2 [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+bevelPanel2=new BorderPanel(1,new Color(220,220,220),new Color(50,50,50)) [org.eclipse.jdt.core.dom.Assignment:7] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+bevelPanel2 [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+new BorderPanel(1,new Color(220,220,220),new Color(50,50,50)) [org.eclipse.jdt.core.dom.ClassInstanceCreation:14] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel(int, Color, Color) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <>
+new BorderPanel(1,new Color(220,220,220),new Color(50,50,50)) [org.eclipse.jdt.core.dom.ClassInstanceCreation:14] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+BorderPanel [org.eclipse.jdt.core.dom.SimpleType:43] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+BorderPanel [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+BorderPanel [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+bevelPanel3=new BorderPanel(1,new Color(220,220,220),new Color(50,50,50)) [org.eclipse.jdt.core.dom.Assignment:7] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+bevelPanel3 [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+new BorderPanel(1,new Color(220,220,220),new Color(50,50,50)) [org.eclipse.jdt.core.dom.ClassInstanceCreation:14] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel(int, Color, Color) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <>
+new BorderPanel(1,new Color(220,220,220),new Color(50,50,50)) [org.eclipse.jdt.core.dom.ClassInstanceCreation:14] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+BorderPanel [org.eclipse.jdt.core.dom.SimpleType:43] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+BorderPanel [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+BorderPanel [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+panel1=new BorderPanel(1,new Color(220,220,220),new Color(50,50,50)) [org.eclipse.jdt.core.dom.Assignment:7] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+panel1 [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+new BorderPanel(1,new Color(220,220,220),new Color(50,50,50)) [org.eclipse.jdt.core.dom.ClassInstanceCreation:14] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel(int, Color, Color) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <>
+new BorderPanel(1,new Color(220,220,220),new Color(50,50,50)) [org.eclipse.jdt.core.dom.ClassInstanceCreation:14] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+BorderPanel [org.eclipse.jdt.core.dom.SimpleType:43] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+BorderPanel [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+BorderPanel [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+panel2=new BorderPanel(1,new Color(220,220,220),new Color(50,50,50)) [org.eclipse.jdt.core.dom.Assignment:7] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+panel2 [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+new BorderPanel(1,new Color(220,220,220),new Color(50,50,50)) [org.eclipse.jdt.core.dom.ClassInstanceCreation:14] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel(int, Color, Color) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <>
+new BorderPanel(1,new Color(220,220,220),new Color(50,50,50)) [org.eclipse.jdt.core.dom.ClassInstanceCreation:14] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+BorderPanel [org.eclipse.jdt.core.dom.SimpleType:43] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+BorderPanel [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+BorderPanel [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+|^
+BLOCK [org.eclipse.jdt.core.dom.Block:8] [SHARED] [UNORDERED] <>
+|^
+VODClient [org.eclipse.jdt.core.dom.TypeDeclaration:55] [SHARED] [UNORDERED] <>
+Assoc#7 -> Assoc#2
+Assoc#7 -> Assoc#3
+Assoc#7 -> Assoc#4
+Assoc#7 -> Assoc#5
+Assoc#7 -> Assoc#6
+Assoc#7 -> Assoc#8
+Assoc#7 -> Assoc#9
+Assoc#7 -> Assoc#10
+Assoc#7 -> Assoc#11
+Assoc#7 -> Assoc#12
+Assoc#7 -> Assoc#13
+Assoc#7 -> Assoc#14
+Assoc#7 -> Assoc#15
+Assoc#7 -> Assoc#16
+Assoc#7 -> Assoc#17
+Assoc#7 -> Assoc#18
+Assoc#7 -> Assoc#19
+Assoc#7 -> Assoc#20
+Assoc#7 -> Assoc#21
+Assoc#7 -> Assoc#22
+Assoc#7 -> Assoc#23
+Assoc#7 -> Assoc#24
+Assoc#7 -> Assoc#25
+Assoc#7 -> Assoc#26
+Assoc#7 -> Assoc#27
+Assoc#8 -> Assoc#0
+ListFrame [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+ListFrame [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+ListFrame [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+ListFrame [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+listframe [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+ListFrame [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+Assoc#8 -> Assoc#1
+|^
+VODClient [org.eclipse.jdt.core.dom.TypeDeclaration:55] [SHARED] [UNORDERED] <>
+|^
+BLOCK [org.eclipse.jdt.core.dom.Block:8] [SHARED] [UNORDERED] <>
+Assoc#8 -> Assoc#2
+Assoc#8 -> Assoc#3
+Assoc#8 -> Assoc#4
+Assoc#8 -> Assoc#5
+Assoc#8 -> Assoc#6
+Assoc#8 -> Assoc#7
+Assoc#8 -> Assoc#9
+Assoc#8 -> Assoc#10
+Assoc#8 -> Assoc#11
+Assoc#8 -> Assoc#12
+Assoc#8 -> Assoc#13
+Assoc#8 -> Assoc#14
+Assoc#8 -> Assoc#15
+Assoc#8 -> Assoc#16
+Assoc#8 -> Assoc#17
+Assoc#8 -> Assoc#18
+Assoc#8 -> Assoc#19
+Assoc#8 -> Assoc#20
+Assoc#8 -> Assoc#21
+Assoc#8 -> Assoc#22
+Assoc#8 -> Assoc#23
+Assoc#8 -> Assoc#24
+Assoc#8 -> Assoc#25
+Assoc#8 -> Assoc#26
+Assoc#8 -> Assoc#27
+Assoc#9 -> Assoc#0
+Assoc#9 -> Assoc#1
+|^
+BLOCK [org.eclipse.jdt.core.dom.Block:8] [SHARED] [UNORDERED] <>
+|^
+VODClient [org.eclipse.jdt.core.dom.TypeDeclaration:55] [SHARED] [UNORDERED] <>
+Assoc#9 -> Assoc#2
+Assoc#9 -> Assoc#3
+Assoc#9 -> Assoc#4
+Assoc#9 -> Assoc#5
+Assoc#9 -> Assoc#6
+Assoc#9 -> Assoc#7
+Assoc#9 -> Assoc#8
+Assoc#9 -> Assoc#10
+Assoc#9 -> Assoc#11
+Assoc#9 -> Assoc#12
+Assoc#9 -> Assoc#13
+Assoc#9 -> Assoc#14
+Assoc#9 -> Assoc#15
+Assoc#9 -> Assoc#16
+Assoc#9 -> Assoc#17
+Assoc#9 -> Assoc#18
+Assoc#9 -> Assoc#19
+Assoc#9 -> Assoc#20
+Assoc#9 -> Assoc#21
+Assoc#9 -> Assoc#22
+Assoc#9 -> Assoc#23
+Assoc#9 -> Assoc#24
+Assoc#9 -> Assoc#25
+Assoc#9 -> Assoc#26
+Assoc#9 -> Assoc#27
+Assoc#10 -> Assoc#0
+Assoc#10 -> Assoc#1
+|^
+BLOCK [org.eclipse.jdt.core.dom.Block:8] [SHARED] [UNORDERED] <>
+|^
+VODClient [org.eclipse.jdt.core.dom.TypeDeclaration:55] [SHARED] [UNORDERED] <>
+Assoc#10 -> Assoc#2
+Assoc#10 -> Assoc#3
+Assoc#10 -> Assoc#4
+Assoc#10 -> Assoc#5
+Assoc#10 -> Assoc#6
+Assoc#10 -> Assoc#7
+Assoc#10 -> Assoc#8
+Assoc#10 -> Assoc#9
+Assoc#10 -> Assoc#11
+Assoc#10 -> Assoc#12
+Assoc#10 -> Assoc#13
+Assoc#10 -> Assoc#14
+Assoc#10 -> Assoc#15
+Assoc#10 -> Assoc#16
+Assoc#10 -> Assoc#17
+Assoc#10 -> Assoc#18
+Assoc#10 -> Assoc#19
+Assoc#10 -> Assoc#20
+Assoc#10 -> Assoc#21
+Assoc#10 -> Assoc#22
+Assoc#10 -> Assoc#23
+Assoc#10 -> Assoc#24
+Assoc#10 -> Assoc#25
+Assoc#10 -> Assoc#26
+Assoc#10 -> Assoc#27
+Assoc#11 -> Assoc#0
+Assoc#11 -> Assoc#1
+|^
+BLOCK [org.eclipse.jdt.core.dom.Block:8] [SHARED] [UNORDERED] <>
+|^
+VODClient [org.eclipse.jdt.core.dom.TypeDeclaration:55] [SHARED] [UNORDERED] <>
+Assoc#11 -> Assoc#2
+Assoc#11 -> Assoc#3
+Assoc#11 -> Assoc#4
+Assoc#11 -> Assoc#5
+Assoc#11 -> Assoc#6
+Assoc#11 -> Assoc#7
+Assoc#11 -> Assoc#8
+Assoc#11 -> Assoc#9
+Assoc#11 -> Assoc#10
+Assoc#11 -> Assoc#12
+Assoc#11 -> Assoc#13
+Assoc#11 -> Assoc#14
+Assoc#11 -> Assoc#15
+Assoc#11 -> Assoc#16
+Assoc#11 -> Assoc#17
+Assoc#11 -> Assoc#18
+Assoc#11 -> Assoc#19
+Assoc#11 -> Assoc#20
+Assoc#11 -> Assoc#21
+Assoc#11 -> Assoc#22
+Assoc#11 -> Assoc#23
+Assoc#11 -> Assoc#24
+Assoc#11 -> Assoc#25
+Assoc#11 -> Assoc#26
+Assoc#11 -> Assoc#27
+Assoc#12 -> Assoc#0
+Assoc#12 -> Assoc#1
+|^
+VODClient [org.eclipse.jdt.core.dom.TypeDeclaration:55] [SHARED] [UNORDERED] <>
+Assoc#12 -> Assoc#2
+Assoc#12 -> Assoc#3
+Assoc#12 -> Assoc#4
+Assoc#12 -> Assoc#5
+Assoc#12 -> Assoc#6
+Assoc#12 -> Assoc#7
+Assoc#12 -> Assoc#8
+Assoc#12 -> Assoc#9
+Assoc#12 -> Assoc#10
+Assoc#12 -> Assoc#11
+Assoc#12 -> Assoc#13
+Assoc#12 -> Assoc#14
+Assoc#12 -> Assoc#15
+Assoc#12 -> Assoc#16
+Assoc#12 -> Assoc#17
+Assoc#12 -> Assoc#18
+Assoc#12 -> Assoc#19
+Assoc#12 -> Assoc#20
+Assoc#12 -> Assoc#21
+Assoc#12 -> Assoc#22
+Assoc#12 -> Assoc#23
+Assoc#12 -> Assoc#24
+Assoc#12 -> Assoc#25
+Assoc#12 -> Assoc#26
+Assoc#12 -> Assoc#27
+Assoc#13 -> Assoc#0
+curmovie [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+Movie [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+video [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+Video [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+Assoc#13 -> Assoc#1
+Assoc#13 -> Assoc#2
+Assoc#13 -> Assoc#3
+Assoc#13 -> Assoc#4
+Assoc#13 -> Assoc#5
+Assoc#13 -> Assoc#6
+Assoc#13 -> Assoc#7
+Assoc#13 -> Assoc#8
+Assoc#13 -> Assoc#9
+Assoc#13 -> Assoc#10
+Assoc#13 -> Assoc#11
+Assoc#13 -> Assoc#12
+|^
+BLOCK [org.eclipse.jdt.core.dom.Block:8] [SHARED] [UNORDERED] <>
+Assoc#13 -> Assoc#14
+Assoc#13 -> Assoc#15
+Assoc#13 -> Assoc#16
+Assoc#13 -> Assoc#17
+Assoc#13 -> Assoc#18
+Assoc#13 -> Assoc#19
+Assoc#13 -> Assoc#20
+Assoc#13 -> Assoc#21
+Assoc#13 -> Assoc#22
+Assoc#13 -> Assoc#23
+Assoc#13 -> Assoc#24
+Assoc#13 -> Assoc#25
+Assoc#13 -> Assoc#26
+Assoc#13 -> Assoc#27
+Assoc#14 -> Assoc#0
+Assoc#14 -> Assoc#1
+Assoc#14 -> Assoc#2
+Assoc#14 -> Assoc#3
+Assoc#14 -> Assoc#4
+Assoc#14 -> Assoc#5
+Assoc#14 -> Assoc#6
+Assoc#14 -> Assoc#7
+Assoc#14 -> Assoc#8
+Assoc#14 -> Assoc#9
+Assoc#14 -> Assoc#10
+Assoc#14 -> Assoc#11
+Assoc#14 -> Assoc#12
+actionEvent [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+ActionEvent actionEvent [org.eclipse.jdt.core.dom.SingleVariableDeclaration:44] [UNIQUE] [UNORDERED] <>
+Assoc#14 -> Assoc#13
+|^
+buttonControl2.getLabel().equals("PLAY") || actionEvent == null [org.eclipse.jdt.core.dom.InfixExpression:27] [SHARED] [UNORDERED] <>
+Assoc#14 -> Assoc#15
+Assoc#14 -> Assoc#16
+Assoc#14 -> Assoc#17
+Assoc#14 -> Assoc#18
+Assoc#14 -> Assoc#19
+Assoc#14 -> Assoc#20
+Assoc#14 -> Assoc#21
+Assoc#14 -> Assoc#22
+Assoc#14 -> Assoc#23
+Assoc#14 -> Assoc#24
+Assoc#14 -> Assoc#25
+Assoc#14 -> Assoc#26
+Assoc#14 -> Assoc#27
+Assoc#15 -> Assoc#0
+Assoc#15 -> Assoc#1
+Assoc#15 -> Assoc#2
+Assoc#15 -> Assoc#3
+Assoc#15 -> Assoc#4
+Assoc#15 -> Assoc#5
+Assoc#15 -> Assoc#6
+Assoc#15 -> Assoc#7
+Assoc#15 -> Assoc#8
+Assoc#15 -> Assoc#9
+Assoc#15 -> Assoc#10
+Assoc#15 -> Assoc#11
+Assoc#15 -> Assoc#12
+Assoc#15 -> Assoc#13
+|^
+BLOCK [org.eclipse.jdt.core.dom.Block:8] [SHARED] [UNORDERED] <>
+|^
+if(buttonControl2.getLabel().equals("PLAY") || actionEvent == null) [org.eclipse.jdt.core.dom.IfStatement:25] [SHARED] [UNORDERED] <>
+Assoc#15 -> Assoc#14
+Assoc#15 -> Assoc#16
+Assoc#15 -> Assoc#17
+Assoc#15 -> Assoc#18
+Assoc#15 -> Assoc#19
+Assoc#15 -> Assoc#20
+Assoc#15 -> Assoc#21
+Assoc#15 -> Assoc#22
+Assoc#15 -> Assoc#23
+Assoc#15 -> Assoc#24
+Assoc#15 -> Assoc#25
+Assoc#15 -> Assoc#26
+Assoc#15 -> Assoc#27
+Assoc#16 -> Assoc#0
+Assoc#16 -> Assoc#1
+Assoc#16 -> Assoc#2
+Assoc#16 -> Assoc#3
+Assoc#16 -> Assoc#4
+|^
+BLOCK [org.eclipse.jdt.core.dom.Block:8] [SHARED] [UNORDERED] <>
+Assoc#16 -> Assoc#5
+Assoc#16 -> Assoc#6
+Assoc#16 -> Assoc#7
+Assoc#16 -> Assoc#8
+Assoc#16 -> Assoc#9
+Assoc#16 -> Assoc#10
+Assoc#16 -> Assoc#11
+Assoc#16 -> Assoc#12
+Assoc#16 -> Assoc#13
+Assoc#16 -> Assoc#14
+Assoc#16 -> Assoc#15
+Assoc#16 -> Assoc#17
+Assoc#16 -> Assoc#18
+Assoc#16 -> Assoc#19
+Assoc#16 -> Assoc#20
+Assoc#16 -> Assoc#21
+Assoc#16 -> Assoc#22
+Assoc#16 -> Assoc#23
+Assoc#16 -> Assoc#24
+Assoc#16 -> Assoc#25
+Assoc#16 -> Assoc#26
+Assoc#16 -> Assoc#27
+Assoc#17 -> Assoc#0
+Assoc#17 -> Assoc#1
+VODClient [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+VODClient [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+VODClient [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+VODClient [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+this$0 [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+VODClient [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+VODClient [org.eclipse.jdt.core.dom.SimpleType:43] [UNIQUE] [UNORDERED] <>
+->
+VODClient [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+VODClient [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+VODClient [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+VODClient [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+VODClient [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+vODClient [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+VODClient [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+this$0=vODClient [org.eclipse.jdt.core.dom.Assignment:7] [UNIQUE] [UNORDERED] <>
+->
+VODClient [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+this$0 [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+VODClient [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+vODClient [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+VODClient [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+this$0 [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+VODClient [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+|^
+VODClient [org.eclipse.jdt.core.dom.TypeDeclaration:55] [SHARED] [UNORDERED] <>
+Assoc#17 -> Assoc#2
+Assoc#17 -> Assoc#3
+Assoc#17 -> Assoc#4
+Assoc#17 -> Assoc#5
+Assoc#17 -> Assoc#6
+Assoc#17 -> Assoc#7
+Assoc#17 -> Assoc#8
+Assoc#17 -> Assoc#9
+Assoc#17 -> Assoc#10
+Assoc#17 -> Assoc#11
+Assoc#17 -> Assoc#12
+Assoc#17 -> Assoc#13
+Assoc#17 -> Assoc#14
+Assoc#17 -> Assoc#15
+Assoc#17 -> Assoc#16
+Assoc#17 -> Assoc#18
+Assoc#17 -> Assoc#19
+Assoc#17 -> Assoc#20
+Assoc#17 -> Assoc#21
+Assoc#17 -> Assoc#22
+Assoc#17 -> Assoc#23
+Assoc#17 -> Assoc#24
+Assoc#17 -> Assoc#25
+Assoc#17 -> Assoc#26
+Assoc#17 -> Assoc#27
+Assoc#18 -> Assoc#0
+server [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+ServerReq [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+server.terminateConnection() [org.eclipse.jdt.core.dom.MethodInvocation:32] [UNIQUE] [UNORDERED] <>
+->
+terminateConnection() [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <>
+server [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+ServerReq [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+terminateConnection [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+terminateConnection() [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <>
+video [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+Video [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+video.stopmovie() [org.eclipse.jdt.core.dom.MethodInvocation:32] [UNIQUE] [UNORDERED] <>
+->
+stopmovie() [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <>
+video [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+Video [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+stopmovie [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+stopmovie() [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <>
+video.destroy() [org.eclipse.jdt.core.dom.MethodInvocation:32] [UNIQUE] [UNORDERED] <>
+->
+destroy() [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <>
+video [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+Video [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+destroy [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+destroy() [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <>
+video=null [org.eclipse.jdt.core.dom.Assignment:7] [UNIQUE] [UNORDERED] <>
+->
+Video [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+video [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+Video [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+Assoc#18 -> Assoc#1
+Assoc#18 -> Assoc#2
+Assoc#18 -> Assoc#3
+Assoc#18 -> Assoc#4
+Assoc#18 -> Assoc#5
+Assoc#18 -> Assoc#6
+Assoc#18 -> Assoc#7
+Assoc#18 -> Assoc#8
+Assoc#18 -> Assoc#9
+Assoc#18 -> Assoc#10
+Assoc#18 -> Assoc#11
+Assoc#18 -> Assoc#12
+Assoc#18 -> Assoc#13
+Assoc#18 -> Assoc#14
+Assoc#18 -> Assoc#15
+Assoc#18 -> Assoc#16
+Assoc#18 -> Assoc#17
+|^
+BLOCK [org.eclipse.jdt.core.dom.Block:8] [SHARED] [UNORDERED] <>
+Assoc#18 -> Assoc#19
+Assoc#18 -> Assoc#20
+Assoc#18 -> Assoc#21
+Assoc#18 -> Assoc#22
+Assoc#18 -> Assoc#23
+Assoc#18 -> Assoc#24
+Assoc#18 -> Assoc#25
+Assoc#18 -> Assoc#26
+Assoc#18 -> Assoc#27
+Assoc#19 -> Assoc#0
+Assoc#19 -> Assoc#1
+bevelPanel2 [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+bevelPanel2 [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+bevelPanel3 [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+bevelPanel3 [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+panel1 [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+panel2 [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+panel2 [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+bevelPanel2 [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+bevelPanel2 [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+bevelPanel3 [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+bevelPanel3 [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+bevelPanel3 [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+panel1 [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+panel2 [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+panel2 [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+VODClient [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+VODClient [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+VODClient [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+VODClient [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+vODClient [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+VODClient [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+new VODClient() [org.eclipse.jdt.core.dom.ClassInstanceCreation:14] [UNIQUE] [UNORDERED] <>
+->
+VODClient() [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <>
+new VODClient() [org.eclipse.jdt.core.dom.ClassInstanceCreation:14] [UNIQUE] [UNORDERED] <>
+->
+VODClient [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+VODClient [org.eclipse.jdt.core.dom.SimpleType:43] [UNIQUE] [UNORDERED] <>
+->
+VODClient [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+VODClient [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+VODClient [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+VODClient [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+VODClient [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+vODClient [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+VODClient [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+vODClient [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+VODClient [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+vODClient [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+VODClient [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+vODClient [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+VODClient [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+vODClient [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+VODClient [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+vODClient [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+VODClient [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+vODClient [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+VODClient [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+vODClient [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+VODClient [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+|^
+VODClient [org.eclipse.jdt.core.dom.TypeDeclaration:55] [SHARED] [UNORDERED] <>
+Assoc#19 -> Assoc#2
+Assoc#19 -> Assoc#3
+Assoc#19 -> Assoc#4
+Assoc#19 -> Assoc#5
+Assoc#19 -> Assoc#6
+Assoc#19 -> Assoc#7
+Assoc#19 -> Assoc#8
+Assoc#19 -> Assoc#9
+Assoc#19 -> Assoc#10
+Assoc#19 -> Assoc#11
+Assoc#19 -> Assoc#12
+Assoc#19 -> Assoc#13
+Assoc#19 -> Assoc#14
+Assoc#19 -> Assoc#15
+Assoc#19 -> Assoc#16
+Assoc#19 -> Assoc#17
+Assoc#19 -> Assoc#18
+Assoc#19 -> Assoc#20
+Assoc#19 -> Assoc#21
+Assoc#19 -> Assoc#22
+Assoc#19 -> Assoc#23
+Assoc#19 -> Assoc#24
+Assoc#19 -> Assoc#25
+Assoc#19 -> Assoc#26
+Assoc#19 -> Assoc#27
+Assoc#20 -> Assoc#0
+video.setratecontrol(true) [org.eclipse.jdt.core.dom.MethodInvocation:32] [UNIQUE] [UNORDERED] <>
+->
+setratecontrol(boolean) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <>
+video [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+Video [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+setratecontrol [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+setratecontrol(boolean) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <>
+server=new ServerReq("127.0.0.1",s) [org.eclipse.jdt.core.dom.Assignment:7] [UNIQUE] [UNORDERED] <>
+->
+ServerReq [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+server [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+ServerReq [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+new ServerReq("127.0.0.1",s) [org.eclipse.jdt.core.dom.ClassInstanceCreation:14] [UNIQUE] [UNORDERED] <>
+->
+ServerReq(String, int) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <>
+new ServerReq("127.0.0.1",s) [org.eclipse.jdt.core.dom.ClassInstanceCreation:14] [UNIQUE] [UNORDERED] <>
+->
+ServerReq [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+ServerReq [org.eclipse.jdt.core.dom.SimpleType:43] [UNIQUE] [UNORDERED] <>
+->
+ServerReq [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+ServerReq [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+ServerReq [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+ServerReq [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+ServerReq [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+server.connect() [org.eclipse.jdt.core.dom.MethodInvocation:32] [UNIQUE] [UNORDERED] <>
+->
+connect() [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <>
+server [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+ServerReq [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+connect [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+connect() [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <>
+listframe=new ListFrame(server,this) [org.eclipse.jdt.core.dom.Assignment:7] [UNIQUE] [UNORDERED] <>
+->
+ListFrame [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+listframe [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+ListFrame [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+new ListFrame(server,this) [org.eclipse.jdt.core.dom.ClassInstanceCreation:14] [UNIQUE] [UNORDERED] <>
+->
+ListFrame(ServerReq, VODClient) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <>
+new ListFrame(server,this) [org.eclipse.jdt.core.dom.ClassInstanceCreation:14] [UNIQUE] [UNORDERED] <>
+->
+ListFrame [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+ListFrame [org.eclipse.jdt.core.dom.SimpleType:43] [UNIQUE] [UNORDERED] <>
+->
+ListFrame [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+ListFrame [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+ListFrame [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+ListFrame [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+ListFrame [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+server [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+ServerReq [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+new VODClientListener1(this) [org.eclipse.jdt.core.dom.ClassInstanceCreation:14] [UNIQUE] [UNORDERED] <>
+->
+VODClientListener1(VODClient) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <>
+new VODClientListener1(this) [org.eclipse.jdt.core.dom.ClassInstanceCreation:14] [UNIQUE] [UNORDERED] <>
+->
+VODClientListener1 [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+VODClientListener1 [org.eclipse.jdt.core.dom.SimpleType:43] [UNIQUE] [UNORDERED] <>
+->
+VODClientListener1 [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+VODClientListener1 [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+VODClientListener1 [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+VODClientListener1 [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+VODClientListener1 [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+Assoc#20 -> Assoc#1
+this [org.eclipse.jdt.core.dom.ThisExpression:52] [UNIQUE] [UNORDERED] <>
+->
+VODClient [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+this [org.eclipse.jdt.core.dom.ThisExpression:52] [UNIQUE] [UNORDERED] <>
+->
+VODClient [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+bevelPanel2 [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+Assoc#20 -> Assoc#2
+Assoc#20 -> Assoc#3
+Assoc#20 -> Assoc#4
+Assoc#20 -> Assoc#5
+Assoc#20 -> Assoc#6
+Assoc#20 -> Assoc#7
+Assoc#20 -> Assoc#8
+Assoc#20 -> Assoc#9
+Assoc#20 -> Assoc#10
+Assoc#20 -> Assoc#11
+Assoc#20 -> Assoc#12
+Assoc#20 -> Assoc#13
+Assoc#20 -> Assoc#14
+Assoc#20 -> Assoc#15
+Assoc#20 -> Assoc#16
+Assoc#20 -> Assoc#17
+Assoc#20 -> Assoc#18
+Assoc#20 -> Assoc#19
+|^
+BLOCK [org.eclipse.jdt.core.dom.Block:8] [SHARED] [UNORDERED] <>
+Assoc#20 -> Assoc#21
+Assoc#20 -> Assoc#22
+Assoc#20 -> Assoc#23
+Assoc#20 -> Assoc#24
+Assoc#20 -> Assoc#25
+Assoc#20 -> Assoc#26
+Assoc#20 -> Assoc#27
+Assoc#21 -> Assoc#0
+Assoc#21 -> Assoc#1
+this [org.eclipse.jdt.core.dom.ThisExpression:52] [UNIQUE] [UNORDERED] <>
+->
+VODClient [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+bevelPanel2 [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+Assoc#21 -> Assoc#2
+Assoc#21 -> Assoc#3
+Assoc#21 -> Assoc#4
+Assoc#21 -> Assoc#5
+Assoc#21 -> Assoc#6
+Assoc#21 -> Assoc#7
+Assoc#21 -> Assoc#8
+Assoc#21 -> Assoc#9
+Assoc#21 -> Assoc#10
+Assoc#21 -> Assoc#11
+Assoc#21 -> Assoc#12
+Assoc#21 -> Assoc#13
+Assoc#21 -> Assoc#14
+Assoc#21 -> Assoc#15
+Assoc#21 -> Assoc#16
+Assoc#21 -> Assoc#17
+Assoc#21 -> Assoc#18
+Assoc#21 -> Assoc#19
+|^
+BLOCK [org.eclipse.jdt.core.dom.Block:8] [SHARED] [UNORDERED] <>
+Assoc#21 -> Assoc#20
+Assoc#21 -> Assoc#22
+Assoc#21 -> Assoc#23
+Assoc#21 -> Assoc#24
+Assoc#21 -> Assoc#25
+Assoc#21 -> Assoc#26
+Assoc#21 -> Assoc#27
+new VODClientListener2(this) [org.eclipse.jdt.core.dom.ClassInstanceCreation:14] [UNIQUE] [UNORDERED] <>
+->
+VODClientListener2(VODClient) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <>
+new VODClientListener2(this) [org.eclipse.jdt.core.dom.ClassInstanceCreation:14] [UNIQUE] [UNORDERED] <>
+->
+VODClientListener2 [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+VODClientListener2 [org.eclipse.jdt.core.dom.SimpleType:43] [UNIQUE] [UNORDERED] <>
+->
+VODClientListener2 [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+VODClientListener2 [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+VODClientListener2 [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+VODClientListener2 [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+VODClientListener2 [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+Assoc#22 -> Assoc#0
+Assoc#22 -> Assoc#1
+Assoc#22 -> Assoc#2
+Assoc#22 -> Assoc#3
+Assoc#22 -> Assoc#4
+Assoc#22 -> Assoc#5
+Assoc#22 -> Assoc#6
+Assoc#22 -> Assoc#7
+Assoc#22 -> Assoc#8
+Assoc#22 -> Assoc#9
+Assoc#22 -> Assoc#10
+Assoc#22 -> Assoc#11
+Assoc#22 -> Assoc#12
+Assoc#22 -> Assoc#13
+Assoc#22 -> Assoc#14
+Assoc#22 -> Assoc#15
+Assoc#22 -> Assoc#16
+Assoc#22 -> Assoc#17
+Assoc#22 -> Assoc#18
+Assoc#22 -> Assoc#19
+|^
+BLOCK [org.eclipse.jdt.core.dom.Block:8] [SHARED] [UNORDERED] <>
+Assoc#22 -> Assoc#20
+Assoc#22 -> Assoc#21
+Assoc#22 -> Assoc#23
+Assoc#22 -> Assoc#24
+Assoc#22 -> Assoc#25
+Assoc#22 -> Assoc#26
+Assoc#22 -> Assoc#27
+Assoc#23 -> Assoc#0
+Assoc#23 -> Assoc#1
+this [org.eclipse.jdt.core.dom.ThisExpression:52] [UNIQUE] [UNORDERED] <>
+->
+VODClient [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+bevelPanel2 [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+Assoc#23 -> Assoc#2
+Assoc#23 -> Assoc#3
+Assoc#23 -> Assoc#4
+new VODClientListener3(this) [org.eclipse.jdt.core.dom.ClassInstanceCreation:14] [UNIQUE] [UNORDERED] <>
+->
+VODClientListener3(VODClient) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <>
+new VODClientListener3(this) [org.eclipse.jdt.core.dom.ClassInstanceCreation:14] [UNIQUE] [UNORDERED] <>
+->
+VODClientListener3 [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+VODClientListener3 [org.eclipse.jdt.core.dom.SimpleType:43] [UNIQUE] [UNORDERED] <>
+->
+VODClientListener3 [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+VODClientListener3 [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+VODClientListener3 [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+VODClientListener3 [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+VODClientListener3 [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+Assoc#23 -> Assoc#5
+Assoc#23 -> Assoc#6
+Assoc#23 -> Assoc#7
+Assoc#23 -> Assoc#8
+Assoc#23 -> Assoc#9
+Assoc#23 -> Assoc#10
+Assoc#23 -> Assoc#11
+Assoc#23 -> Assoc#12
+Assoc#23 -> Assoc#13
+Assoc#23 -> Assoc#14
+Assoc#23 -> Assoc#15
+Assoc#23 -> Assoc#16
+Assoc#23 -> Assoc#17
+Assoc#23 -> Assoc#18
+Assoc#23 -> Assoc#19
+|^
+BLOCK [org.eclipse.jdt.core.dom.Block:8] [SHARED] [UNORDERED] <>
+Assoc#23 -> Assoc#20
+Assoc#23 -> Assoc#21
+Assoc#23 -> Assoc#22
+Assoc#23 -> Assoc#24
+Assoc#23 -> Assoc#25
+Assoc#23 -> Assoc#26
+Assoc#23 -> Assoc#27
+Assoc#24 -> Assoc#0
+Assoc#24 -> Assoc#1
+this [org.eclipse.jdt.core.dom.ThisExpression:52] [UNIQUE] [UNORDERED] <>
+->
+VODClient [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+bevelPanel2 [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+Assoc#24 -> Assoc#2
+Assoc#24 -> Assoc#3
+Assoc#24 -> Assoc#4
+Assoc#24 -> Assoc#5
+Assoc#24 -> Assoc#6
+Assoc#24 -> Assoc#7
+Assoc#24 -> Assoc#8
+Assoc#24 -> Assoc#9
+Assoc#24 -> Assoc#10
+Assoc#24 -> Assoc#11
+Assoc#24 -> Assoc#12
+Assoc#24 -> Assoc#13
+Assoc#24 -> Assoc#14
+Assoc#24 -> Assoc#15
+Assoc#24 -> Assoc#16
+Assoc#24 -> Assoc#17
+new VODClientListener4(this) [org.eclipse.jdt.core.dom.ClassInstanceCreation:14] [UNIQUE] [UNORDERED] <>
+->
+VODClientListener4(VODClient) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <>
+new VODClientListener4(this) [org.eclipse.jdt.core.dom.ClassInstanceCreation:14] [UNIQUE] [UNORDERED] <>
+->
+VODClientListener4 [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+VODClientListener4 [org.eclipse.jdt.core.dom.SimpleType:43] [UNIQUE] [UNORDERED] <>
+->
+VODClientListener4 [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+VODClientListener4 [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+VODClientListener4 [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+VODClientListener4 [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+VODClientListener4 [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+Assoc#24 -> Assoc#18
+Assoc#24 -> Assoc#19
+|^
+BLOCK [org.eclipse.jdt.core.dom.Block:8] [SHARED] [UNORDERED] <>
+Assoc#24 -> Assoc#20
+Assoc#24 -> Assoc#21
+Assoc#24 -> Assoc#22
+Assoc#24 -> Assoc#23
+Assoc#24 -> Assoc#25
+Assoc#24 -> Assoc#26
+Assoc#24 -> Assoc#27
+Assoc#25 -> Assoc#0
+|^
+BLOCK [org.eclipse.jdt.core.dom.Block:8] [SHARED] [UNORDERED] <>
+Assoc#25 -> Assoc#1
+Assoc#25 -> Assoc#2
+Assoc#25 -> Assoc#3
+Assoc#25 -> Assoc#4
+Assoc#25 -> Assoc#5
+Assoc#25 -> Assoc#6
+Assoc#25 -> Assoc#7
+Assoc#25 -> Assoc#8
+Assoc#25 -> Assoc#9
+Assoc#25 -> Assoc#10
+Assoc#25 -> Assoc#11
+Assoc#25 -> Assoc#12
+Assoc#25 -> Assoc#13
+Assoc#25 -> Assoc#14
+Assoc#25 -> Assoc#15
+Assoc#25 -> Assoc#16
+Assoc#25 -> Assoc#17
+Assoc#25 -> Assoc#18
+Assoc#25 -> Assoc#19
+Assoc#25 -> Assoc#20
+Assoc#25 -> Assoc#21
+Assoc#25 -> Assoc#22
+Assoc#25 -> Assoc#23
+Assoc#25 -> Assoc#24
+Assoc#25 -> Assoc#26
+Assoc#25 -> Assoc#27
+Assoc#26 -> Assoc#0
+|^
+BLOCK [org.eclipse.jdt.core.dom.Block:8] [SHARED] [UNORDERED] <>
+Assoc#26 -> Assoc#1
+this [org.eclipse.jdt.core.dom.ThisExpression:52] [UNIQUE] [UNORDERED] <>
+->
+VODClient [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+Assoc#26 -> Assoc#2
+Assoc#26 -> Assoc#3
+Assoc#26 -> Assoc#4
+Assoc#26 -> Assoc#5
+Assoc#26 -> Assoc#6
+Assoc#26 -> Assoc#7
+Assoc#26 -> Assoc#8
+Assoc#26 -> Assoc#9
+Assoc#26 -> Assoc#10
+Assoc#26 -> Assoc#11
+Assoc#26 -> Assoc#12
+this.buttonControl2_actionPerformed(null) [org.eclipse.jdt.core.dom.MethodInvocation:32] [UNIQUE] [UNORDERED] <>
+->
+buttonControl2_actionPerformed(ActionEvent) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <>
+buttonControl2_actionPerformed [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+buttonControl2_actionPerformed(ActionEvent) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <>
+Assoc#26 -> Assoc#13
+Assoc#26 -> Assoc#14
+Assoc#26 -> Assoc#15
+Assoc#26 -> Assoc#16
+Assoc#26 -> Assoc#17
+Assoc#26 -> Assoc#18
+Assoc#26 -> Assoc#19
+Assoc#26 -> Assoc#20
+Assoc#26 -> Assoc#21
+Assoc#26 -> Assoc#22
+Assoc#26 -> Assoc#23
+Assoc#26 -> Assoc#24
+Assoc#26 -> Assoc#25
+Assoc#26 -> Assoc#27
+Assoc#27 -> Assoc#0
+Assoc#27 -> Assoc#1
+VODClient [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+VODClient [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+VODClient [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+VODClient [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+this$0 [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+VODClient [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+VODClient [org.eclipse.jdt.core.dom.SimpleType:43] [UNIQUE] [UNORDERED] <>
+->
+VODClient [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+VODClient [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+VODClient [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+VODClient [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+VODClient [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+vODClient [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+VODClient [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+this$0=vODClient [org.eclipse.jdt.core.dom.Assignment:7] [UNIQUE] [UNORDERED] <>
+->
+VODClient [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+this$0 [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+VODClient [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+vODClient [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+VODClient [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+this$0 [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+VODClient [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <>
+Assoc#27 -> Assoc#2
+Assoc#27 -> Assoc#3
+Assoc#27 -> Assoc#4
+Assoc#27 -> Assoc#5
+Assoc#27 -> Assoc#6
+Assoc#27 -> Assoc#7
+Assoc#27 -> Assoc#8
+Assoc#27 -> Assoc#9
+Assoc#27 -> Assoc#10
+Assoc#27 -> Assoc#11
+Assoc#27 -> Assoc#12
+this$0.buttonControl2_actionPerformed(actionEvent) [org.eclipse.jdt.core.dom.MethodInvocation:32] [UNIQUE] [UNORDERED] <>
+->
+buttonControl2_actionPerformed(ActionEvent) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <>
+buttonControl2_actionPerformed [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+buttonControl2_actionPerformed(ActionEvent) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <>
+Assoc#27 -> Assoc#13
+Assoc#27 -> Assoc#14
+Assoc#27 -> Assoc#15
+Assoc#27 -> Assoc#16
+Assoc#27 -> Assoc#17
+MPEGDecoder [org.eclipse.jdt.core.dom.SimpleName:42] [UNIQUE] [UNORDERED] <>
+->
+package MPEGDecoder; [org.eclipse.jdt.core.dom.PackageDeclaration:35] [UNIQUE](ATOMIC) [UNORDERED] <>
+Assoc#27 -> Assoc#18
+Assoc#27 -> Assoc#19
+Assoc#27 -> Assoc#20
+Assoc#27 -> Assoc#21
+Assoc#27 -> Assoc#22
+Assoc#27 -> Assoc#23
+Assoc#27 -> Assoc#24
+Assoc#27 -> Assoc#25
+Assoc#27 -> Assoc#26

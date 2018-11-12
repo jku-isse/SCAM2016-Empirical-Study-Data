@@ -1,0 +1,27 @@
+Assoc#0: 1128530
+Assoc#1: 142251
+Assoc#2: 2436
+Assoc#3: 13065
+Assoc#4: 43409
+Assoc#5: 16569
+Assoc#6: 25109
+Assoc#7: 215
+Assoc#8: 44097
+Assoc#9: 18226
+Assoc#10: 898
+Assoc#11: 1055
+Assoc#12: 96
+Assoc#13: 278
+Assoc#14: 18523
+Assoc#15: 235
+Assoc#16: 994
+Assoc#17: 304
+Assoc#18: 67
+Assoc#19: 6
+Assoc#20: 319
+Assoc#21: 88
+Assoc#22: 43
+Assoc#23: 64
+Assoc#24: 9
+number of artifacts total: 1456886.0
+granularity: 58275.44

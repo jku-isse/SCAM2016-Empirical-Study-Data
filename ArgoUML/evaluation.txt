@@ -1,0 +1,190 @@
+Number of products: 256
+Number of associations: 25
+Existing Modules:
+order0: 9
+order1: 15
+order2: 1
+Granularity (number of unique artifacts in an association):
+granularity: 58275.44
+Granularity (top unique nodes):
+Assoc#0
+org.eclipse.jdt.core.dom.CompilationUnit:15 : 1505
+org.eclipse.jdt.core.dom.ReturnStatement:41 : 1
+org.eclipse.jdt.core.dom.ImportDeclaration:26 : 1
+Assoc#1
+org.eclipse.jdt.core.dom.ConstructorInvocation:17 : 2
+org.eclipse.jdt.core.dom.CompilationUnit:15 : 212
+org.eclipse.jdt.core.dom.InstanceofExpression:62 : 1
+org.eclipse.jdt.core.dom.EnhancedForStatement:70 : 4
+org.eclipse.jdt.core.dom.SimpleName:42 : 1
+org.eclipse.jdt.core.dom.VariableDeclarationStatement:60 : 16
+org.eclipse.jdt.core.dom.ExpressionStatement:21 : 42
+org.eclipse.jdt.core.dom.SingleVariableDeclaration:44 : 1
+org.eclipse.jdt.core.dom.FieldDeclaration:23 : 7
+org.eclipse.jdt.core.dom.SimpleType:43 : 1
+org.eclipse.jdt.core.dom.IfStatement:25 : 11
+org.eclipse.jdt.core.dom.ClassInstanceCreation:14 : 2
+org.eclipse.jdt.core.dom.MethodDeclaration:31 : 15
+org.eclipse.jdt.core.dom.ImportDeclaration:26 : 57
+org.eclipse.jdt.core.dom.InfixExpression:27 : 1
+Assoc#2
+org.eclipse.jdt.core.dom.IfStatement:25 : 1
+org.eclipse.jdt.core.dom.ExpressionStatement:21 : 71
+org.eclipse.jdt.core.dom.ImportDeclaration:26 : 1
+org.eclipse.jdt.core.dom.FieldDeclaration:23 : 1
+Assoc#3
+org.eclipse.jdt.core.dom.CompilationUnit:15 : 18
+org.eclipse.jdt.core.dom.ReturnStatement:41 : 1
+org.eclipse.jdt.core.dom.WhileStatement:61 : 2
+org.eclipse.jdt.core.dom.VariableDeclarationStatement:60 : 16
+org.eclipse.jdt.core.dom.ClassInstanceCreation:14 : 7
+org.eclipse.jdt.core.dom.IfStatement:25 : 10
+org.eclipse.jdt.core.dom.EnumConstantDeclaration:72 : 1
+org.eclipse.jdt.core.dom.MethodDeclaration:31 : 2
+org.eclipse.jdt.core.dom.ImportDeclaration:26 : 13
+org.eclipse.jdt.core.dom.ExpressionStatement:21 : 27
+org.eclipse.jdt.core.dom.FieldDeclaration:23 : 1
+Assoc#4
+org.eclipse.jdt.core.dom.CompilationUnit:15 : 53
+org.eclipse.jdt.core.dom.VariableDeclarationStatement:60 : 3
+org.eclipse.jdt.core.dom.ClassInstanceCreation:14 : 3
+org.eclipse.jdt.core.dom.IfStatement:25 : 2
+org.eclipse.jdt.core.dom.PrefixExpression:38 : 1
+org.eclipse.jdt.core.dom.EnumConstantDeclaration:72 : 1
+org.eclipse.jdt.core.dom.ExpressionStatement:21 : 10
+org.eclipse.jdt.core.dom.ImportDeclaration:26 : 6
+org.eclipse.jdt.core.dom.FieldDeclaration:23 : 1
+Assoc#5
+org.eclipse.jdt.core.dom.Initializer:28 : 1
+org.eclipse.jdt.core.dom.IfStatement:25 : 33
+org.eclipse.jdt.core.dom.ForStatement:24 : 1
+org.eclipse.jdt.core.dom.MethodDeclaration:31 : 3
+org.eclipse.jdt.core.dom.TryStatement:54 : 1
+org.eclipse.jdt.core.dom.ExpressionStatement:21 : 435
+org.eclipse.jdt.core.dom.ImportDeclaration:26 : 4
+org.eclipse.jdt.core.dom.FieldDeclaration:23 : 5
+Assoc#6
+org.eclipse.jdt.core.dom.Block:8 : 1
+org.eclipse.jdt.core.dom.CompilationUnit:15 : 37
+org.eclipse.jdt.core.dom.StringLiteral:45 : 1
+org.eclipse.jdt.core.dom.VariableDeclarationStatement:60 : 4
+org.eclipse.jdt.core.dom.IfStatement:25 : 12
+org.eclipse.jdt.core.dom.MethodDeclaration:31 : 1
+org.eclipse.jdt.core.dom.EnumConstantDeclaration:72 : 1
+org.eclipse.jdt.core.dom.ExpressionStatement:21 : 10
+org.eclipse.jdt.core.dom.ImportDeclaration:26 : 13
+org.eclipse.jdt.core.dom.MethodInvocation:32 : 2
+org.eclipse.jdt.core.dom.FieldDeclaration:23 : 1
+Assoc#7
+org.eclipse.jdt.core.dom.IfStatement:25 : 1
+org.eclipse.jdt.core.dom.ExpressionStatement:21 : 9
+org.eclipse.jdt.core.dom.ImportDeclaration:26 : 2
+Assoc#8
+org.eclipse.jdt.core.dom.CompilationUnit:15 : 51
+org.eclipse.jdt.core.dom.VariableDeclarationStatement:60 : 23
+org.eclipse.jdt.core.dom.EnhancedForStatement:70 : 1
+org.eclipse.jdt.core.dom.SimpleName:42 : 1
+org.eclipse.jdt.core.dom.PrefixExpression:38 : 1
+org.eclipse.jdt.core.dom.EnumConstantDeclaration:72 : 1
+org.eclipse.jdt.core.dom.ExpressionStatement:21 : 48
+org.eclipse.jdt.core.dom.FieldDeclaration:23 : 2
+org.eclipse.jdt.core.dom.ClassInstanceCreation:14 : 16
+org.eclipse.jdt.core.dom.IfStatement:25 : 21
+org.eclipse.jdt.core.dom.MethodDeclaration:31 : 2
+org.eclipse.jdt.core.dom.ImportDeclaration:26 : 38
+org.eclipse.jdt.core.dom.InfixExpression:27 : 1
+Assoc#9
+org.eclipse.jdt.core.dom.CompilationUnit:15 : 20
+org.eclipse.jdt.core.dom.VariableDeclarationStatement:60 : 1
+org.eclipse.jdt.core.dom.IfStatement:25 : 5
+org.eclipse.jdt.core.dom.EnumConstantDeclaration:72 : 1
+org.eclipse.jdt.core.dom.ExpressionStatement:21 : 7
+org.eclipse.jdt.core.dom.ImportDeclaration:26 : 9
+org.eclipse.jdt.core.dom.FieldDeclaration:23 : 1
+Assoc#10
+org.eclipse.jdt.core.dom.IfStatement:25 : 3
+org.eclipse.jdt.core.dom.ExpressionStatement:21 : 19
+org.eclipse.jdt.core.dom.ImportDeclaration:26 : 1
+org.eclipse.jdt.core.dom.FieldDeclaration:23 : 1
+Assoc#11
+org.eclipse.jdt.core.dom.VariableDeclarationStatement:60 : 4
+org.eclipse.jdt.core.dom.EnhancedForStatement:70 : 1
+org.eclipse.jdt.core.dom.IfStatement:25 : 4
+org.eclipse.jdt.core.dom.MethodDeclaration:31 : 3
+org.eclipse.jdt.core.dom.ExpressionStatement:21 : 5
+org.eclipse.jdt.core.dom.ImportDeclaration:26 : 1
+org.eclipse.jdt.core.dom.InfixExpression:27 : 1
+org.eclipse.jdt.core.dom.MethodInvocation:32 : 1
+Assoc#12
+org.eclipse.jdt.core.dom.ExpressionStatement:21 : 7
+Assoc#13
+org.eclipse.jdt.core.dom.ExpressionStatement:21 : 11
+org.eclipse.jdt.core.dom.ImportDeclaration:26 : 1
+org.eclipse.jdt.core.dom.FieldDeclaration:23 : 1
+Assoc#14
+org.eclipse.jdt.core.dom.CompilationUnit:15 : 17
+org.eclipse.jdt.core.dom.InstanceofExpression:62 : 1
+org.eclipse.jdt.core.dom.VariableDeclarationStatement:60 : 9
+org.eclipse.jdt.core.dom.IfStatement:25 : 10
+org.eclipse.jdt.core.dom.PrefixExpression:38 : 1
+org.eclipse.jdt.core.dom.EnumConstantDeclaration:72 : 1
+org.eclipse.jdt.core.dom.MethodDeclaration:31 : 3
+org.eclipse.jdt.core.dom.ExpressionStatement:21 : 13
+org.eclipse.jdt.core.dom.ImportDeclaration:26 : 11
+org.eclipse.jdt.core.dom.ParenthesizedExpression:36 : 1
+org.eclipse.jdt.core.dom.FieldDeclaration:23 : 1
+Assoc#15
+org.eclipse.jdt.core.dom.IfStatement:25 : 2
+org.eclipse.jdt.core.dom.ExpressionStatement:21 : 8
+org.eclipse.jdt.core.dom.ImportDeclaration:26 : 1
+org.eclipse.jdt.core.dom.FieldDeclaration:23 : 1
+Assoc#16
+org.eclipse.jdt.core.dom.InstanceofExpression:62 : 1
+org.eclipse.jdt.core.dom.VariableDeclarationStatement:60 : 1
+org.eclipse.jdt.core.dom.IfStatement:25 : 4
+org.eclipse.jdt.core.dom.MethodDeclaration:31 : 9
+org.eclipse.jdt.core.dom.ImportDeclaration:26 : 14
+org.eclipse.jdt.core.dom.MethodInvocation:32 : 5
+org.eclipse.jdt.core.dom.InfixExpression:27 : 2
+Assoc#17
+org.eclipse.jdt.core.dom.ExpressionStatement:21 : 16
+org.eclipse.jdt.core.dom.ImportDeclaration:26 : 1
+org.eclipse.jdt.core.dom.FieldDeclaration:23 : 1
+Assoc#18
+org.eclipse.jdt.core.dom.ExpressionStatement:21 : 2
+org.eclipse.jdt.core.dom.ImportDeclaration:26 : 1
+org.eclipse.jdt.core.dom.FieldDeclaration:23 : 1
+Assoc#19
+org.eclipse.jdt.core.dom.InstanceofExpression:62 : 1
+Assoc#20
+org.eclipse.jdt.core.dom.IfStatement:25 : 3
+org.eclipse.jdt.core.dom.ExpressionStatement:21 : 9
+org.eclipse.jdt.core.dom.ImportDeclaration:26 : 1
+org.eclipse.jdt.core.dom.FieldDeclaration:23 : 1
+Assoc#21
+org.eclipse.jdt.core.dom.IfStatement:25 : 4
+org.eclipse.jdt.core.dom.ExpressionStatement:21 : 1
+Assoc#22
+org.eclipse.jdt.core.dom.IfStatement:25 : 1
+org.eclipse.jdt.core.dom.ImportDeclaration:26 : 1
+org.eclipse.jdt.core.dom.ExpressionStatement:21 : 1
+Assoc#23
+org.eclipse.jdt.core.dom.IfStatement:25 : 2
+org.eclipse.jdt.core.dom.ImportDeclaration:26 : 1
+Assoc#24
+org.eclipse.jdt.core.dom.ExpressionStatement:21 : 1
+Scattering:
+org.eclipse.jdt.core.dom.TypeDeclaration:55 : 105.6
+org.eclipse.jdt.core.dom.CompilationUnit:15 : 94.12
+org.eclipse.jdt.core.dom.MethodDeclaration:31 : 696.64
+Scattering per order:
+org.eclipse.jdt.core.dom.TypeDeclaration:55 : 101.52, 4.0, 0.08, 
+org.eclipse.jdt.core.dom.CompilationUnit:15 : 90.0, 4.04, 0.08, 
+org.eclipse.jdt.core.dom.MethodDeclaration:31 : 689.2, 7.32, 0.12, 
+Tangling:
+org.eclipse.jdt.core.dom.TypeDeclaration:55 : 1.2071330589849107
+org.eclipse.jdt.core.dom.CompilationUnit:15 : 1.2300052273915316
+org.eclipse.jdt.core.dom.MethodDeclaration:31 : 1.0456919843890724
+Dependencies:
+Coupling:
+Cohesion:

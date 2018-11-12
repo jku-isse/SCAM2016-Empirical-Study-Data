@@ -1,0 +1,338 @@
+MPEGDecoder.ListFrameListener4: 5
+ListFrameListener4: 5
+ListFrameListener4(ListFrame): 1
+actionPerformed(ActionEvent): 0
+MPEGDecoder.ListFrameListener2: 5
+ListFrameListener2: 5
+ListFrameListener2(ListFrame): 1
+actionPerformed(ActionEvent): 0
+MPEGDecoder.ServerReq: 49
+ServerReq: 49
+ServerReq(String, int): 1
+connect(): 2
+connect(String): 4
+disconnect(): 10
+gethost(): 2
+getmovie(String): 4
+getmovielist(): 2
+terminateConnection(): 2
+isConnected(): 4
+MPEGDecoder.Video: 38
+Video: 38
+Video(BorderPanel, Label, Label, VODClient): 1
+destroy(): 2
+parse_sequence_header(): 2
+run(): 0
+setratecontrol(boolean): 2
+setvideostream(URL): 4
+stopmovie(): 10
+MPEGDecoder.MacroblockNew: 25
+MacroblockNew: 25
+MacroblockNew(BitInputStream, DataStore): 2
+MPEGDecoder.VODClientListener1: 5
+VODClientListener1: 5
+VODClientListener1(VODClient): 1
+actionPerformed(ActionEvent): 0
+MPEGDecoder.BitInputStream: 739
+BitInputStream: 739
+BitInputStream(InputStream): 4
+close(): 4
+bytealign(): 0
+bytealigned(): 0
+flushaligned(int): 6
+flushbits(int): 54
+next_start_code(): 24
+nextaligned(int): 28
+nextbits(int): 54
+readaligned(int): 12
+readbit(): 46
+readbits(int): 108
+readbuffer(): 20
+readbyte(): 22
+readint(): 4
+readshort(): 0
+MPEGDecoder.IDCT: 14
+IDCT: 14
+IDCT(): 1
+fast_fidct64_rowcol(int): 0
+fast_idct64_rowcol(int): 2
+fidct_col(int, int): 16
+fidct_row(int, int): 16
+iidct_col(int, int): 16
+iidct_row(int, int): 16
+MPEGDecoder.ListFrame: 80
+ListFrame: 80
+ListFrame(ServerReq, VODClient): 1
+buttonControl2_actionPerformed(ActionEvent): 2
+buttonControl4_actionPerformed(ActionEvent): 2
+hostreset(): 4
+jbInit(): 2
+buttonControl3_actionPerformed(ActionEvent): 2
+buttonControl1_actionPerformed(ActionEvent): 2
+changeserver(String): 4
+MPEGDecoder.VODClient: 82
+VODClient: 82
+VODClient(): 1
+buttonControl1_actionPerformed(ActionEvent): 2
+clearmovie(): 2
+destroy(): 0
+selectmovie(String): 2
+getAppletInfo(): 0
+getParameterInfo(): 0
+buttonControl3_actionPerformed(ActionEvent): 2
+stopmovie(): 2
+buttonControl2_actionPerformed(ActionEvent): 4
+buttonControl4_actionPerformed(ActionEvent): 2
+processWindowEvent(WindowEvent): 0
+init(): 2
+jbInit(): 2
+main(String): 0
+MPEGDecoder.FrameImage: 43
+FrameImage: 43
+FrameImage(): 1
+addblock(int, int, int, boolean, int): 2
+average(int, int, int, int): 2
+chrom_average(int, int, int, int, int, int): 2
+exchangepicture(int): 6
+getIImage(): 2
+getImage(): 2
+getImage(int, int, int): 6
+getPImage(): 2
+newsequence(int, int): 2
+recon(int, int, int, int, int): 8
+recon_chrom(int, int, int, int, int, int, int): 8
+recon_chrom_down(int, int, int, int, int, int, int): 8
+recon_chrom_right(int, int, int, int, int, int, int): 8
+recon_chrom_rightdown(int, int, int, int, int, int, int): 8
+recon_down(int, int, int, int, int): 8
+recon_right(int, int, int, int, int): 8
+recon_rightdown(int, int, int, int, int): 8
+reconstruct(int, int, int, int): 4
+startnewpicture(int): 2
+MPEGDecoder.GOP: 33
+GOP: 33
+GOP(BitInputStream, DataStore, Label): 1
+clearnumofpic(): 2
+getnumofpic(): 4
+read_gop(): 2
+setstream(BitInputStream): 6
+MPEGDecoder.GOPHeader: 32
+GOPHeader: 32
+GOPHeader(): 1
+MPEGDecoder.Macroblock: 13
+Macroblock: 13
+Macroblock(BitInputStream, DataStore): 0
+calcMV(int, int, int, int, boolean): 4
+getBMBtype(): 2
+getCBP(): 2
+getDCchrom(): 4
+getDClum(): 2
+getDMBtype(): 2
+getIMBtype(): 2
+getMBA(): 2
+getMV(): 4
+getPMBtype(): 2
+getinterblock(int): 2
+getinterblock1(int): 0
+getintrablock(int, int[]): 2
+is_nextslice(): 2
+motion_vector(int[], int, boolean): 4
+read_macroblock(): 4
+read_slice(): 2
+setstream(BitInputStream): 4
+MPEGDecoder.Movie: 56
+Movie: 56
+Movie(String, String): 0
+Movie(String, String, String, String, String): 1
+addscreen_shut(String): 0
+getactor(): 2
+getdescription(): 2
+getdirector(): 2
+getscreen_shut(): 0
+getstream_url(): 2
+gettitle(): 2
+MPEGDecoder.SequenceHeader: 65
+SequenceHeader: 65
+SequenceHeader(): 1
+MPEGDecoder.MacroHeader: 147
+MacroHeader: 147
+MacroHeader(): 1
+MPEGDecoder.PictureHeader: 49
+PictureHeader: 49
+PictureHeader(): 1
+MPEGDecoder.Picture: 16
+Picture: 16
+Picture(BitInputStream, DataStore): 1
+read_picture(): 2
+setstream(BitInputStream): 2
+MPEGDecoder.DataStore: 244
+DataStore: 244
+DataStore(BorderPanel): 1
+MBAinc(int): 4
+change_quantierscale(int): 4
+clearblock(int): 2
+clearprevdisptime(): 2
+decodeblock(): 2
+exchangeIframe(): 2
+exchangePframe(): 2
+exchangeframe(): 0
+getMBA(): 0
+getbackward_r_size(): 2
+getblock(int): 10
+getforward_r_size(): 2
+getfull_pel_backward_vector(): 2
+getfull_pel_forward_vector(): 2
+getmacroblock_type(): 4
+getpicture_coding_type(): 2
+getquant_scale(): 4
+newframe(): 2
+newslice(int): 2
+newsquence(): 2
+resetMBA(): 4
+resetpastdct(): 4
+setgopheader(GOPHeader): 2
+setmacroheader(MacroHeader): 2
+setnonintra(boolean): 4
+setpictureheader(PictureHeader): 2
+setratecontrol(boolean): 2
+setsequenceheader(SequenceHeader): 2
+showIframe(): 2
+showPframe(): 2
+showframe(): 4
+skipblock(): 2
+startnewpicture(int): 2
+MPEGDecoder.Block: 0
+Block: 0
+Block(BitInputStream, DataStore): 0
+getDCchrom(): 4
+getDClum(): 2
+getinterblock(int): 2
+getintrablock(int, int): 2
+read_block(int): 0
+setstream(BitInputStream): 0
+MPEGDecoder.ImageButton: 0
+ImageButton: 0
+ImageButton(int): 0
+ImageButton(Image, int): 0
+ImageButton(Image, Image, int): 0
+ImageButton(Image, Image, int, int): 0
+check(): 0
+getImage(): 0
+getLabel(): 0
+isEnabled(): 6
+minimumSize(): 2
+mouseDown(Event, int, int): 0
+mouseUp(Event, int, int): 0
+paint(Graphics): 14
+paintAll(Graphics): 0
+preferredSize(): 0
+repaint(): 0
+setButton(boolean): 0
+setEnable(boolean): 0
+setImage1(Image): 0
+setImage2(Image): 0
+setLabel(String): 0
+update(Graphics): 0
+MPEGDecoder.SliceHeader: 5
+SliceHeader: 5
+MPEGDecoder.Slice: 0
+Slice: 0
+Slice(BitInputStream, DataStore): 0
+setstream(BitInputStream): 0
+read_slice(): 0
+is_nextslice(): 0
+MPEGDecoder.SliceHeaderNew: 10
+SliceHeaderNew: 10
+SliceHeaderNew(): 1
+MPEGDecoder.Time: 0
+Time: 0
+Time(Label): 0
+run(): 0
+MPEGDecoder.ScreenPanel: 0
+ScreenPanel: 0
+ScreenPanel(): 0
+clearscreen(): 0
+drawBar(Graphics, int, int, int, int): 4
+jbInit(): 2
+paint(Graphics): 0
+setImage(Image): 0
+setImageSize(int, int): 0
+update(Graphics): 0
+MPEGDecoder.BorderPanel: 182
+BorderPanel: 182
+BorderPanel(): 0
+BorderPanel(int): 0
+BorderPanel(int, Color, Color): 10
+BorderPanel(Color, Color): 0
+clearscreen(): 2
+insets(): 0
+paint(Graphics): 0
+setImage(Image): 6
+setImageSize(int, int): 2
+update(Graphics): 0
+MPEGDecoder.CONST: 0
+CONST: 0
+CONST(): 0
+MPEGDecoder.BlockHeader: 11
+BlockHeader: 11
+BlockHeader(): 1
+MPEGDecoder.PlayTimer: 0
+PlayTimer: 0
+PlayTimer(Label): 0
+run(): 0
+stoptime(): 0
+MPEGDecoder.ServerSelectListener2: 5
+ServerSelectListener2: 5
+ServerSelectListener2(ServerSelect): 1
+actionPerformed(ActionEvent): 0
+MPEGDecoder.ServerSelectListener1: 5
+ServerSelectListener1: 5
+ServerSelectListener1(ServerSelect): 1
+actionPerformed(ActionEvent): 0
+MPEGDecoder.ServerSelectListener3: 5
+ServerSelectListener3: 5
+ServerSelectListener3(ServerSelect): 1
+actionPerformed(ActionEvent): 0
+MPEGDecoder.ServerSelect: 50
+ServerSelect: 50
+ServerSelect(ListFrame): 1
+button1_actionPerformed(ActionEvent): 2
+button2_actionPerformed(ActionEvent): 2
+jbInit(): 2
+textField1_actionPerformed(ActionEvent): 2
+MPEGDecoder.VODClientListener3: 5
+VODClientListener3: 5
+VODClientListener3(VODClient): 1
+actionPerformed(ActionEvent): 0
+MPEGDecoder.Detail: 27
+Detail: 27
+Detail(): 1
+button1_actionPerformed(ActionEvent): 2
+jbInit(): 2
+setmovie(Movie): 2
+MPEGDecoder.ListFrameListener3: 5
+ListFrameListener3: 5
+ListFrameListener3(ListFrame): 1
+actionPerformed(ActionEvent): 0
+MPEGDecoder.DetailListener1: 5
+DetailListener1: 5
+DetailListener1(Detail): 1
+actionPerformed(ActionEvent): 0
+MPEGDecoder.ListFrameListener1: 5
+ListFrameListener1: 5
+ListFrameListener1(ListFrame): 1
+actionPerformed(ActionEvent): 0
+MPEGDecoder.VODClientListener4: 46
+VODClientListener4: 5
+VODClientListener4(VODClient): 1
+actionPerformed(ActionEvent): 0
+MPEGDecoder.VODClientListener2: 5
+VODClientListener2: 5
+VODClientListener2(VODClient): 1
+actionPerformed(ActionEvent): 0
+org.eclipse.jdt.core.dom.TypeDeclaration:55 : 2070.0
+org.eclipse.jdt.core.dom.CompilationUnit:15 : 2111.0
+org.eclipse.jdt.core.dom.MethodDeclaration:31 : 900.0
+org.eclipse.jdt.core.dom.TypeDeclaration:55 : 49.285714285714285
+org.eclipse.jdt.core.dom.CompilationUnit:15 : 50.26190476190476
+org.eclipse.jdt.core.dom.MethodDeclaration:31 : 3.629032258064516

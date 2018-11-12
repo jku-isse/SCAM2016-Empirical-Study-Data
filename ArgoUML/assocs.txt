@@ -1,0 +1,75 @@
+ASSOC: Assoc#0
+modules: δ^0(base{0})/
+
+ASSOC: Assoc#1
+modules: δ^0(cognitive{0})/
+
+ASSOC: Assoc#2
+modules: δ^1(logging{0})/δ(COGNITIVE{0})
+
+ASSOC: Assoc#3
+modules: δ^0(collaborationdiagram{0})/
+
+ASSOC: Assoc#4
+modules: δ^0(sequencediagram{0})/
+
+ASSOC: Assoc#5
+modules: δ^0(logging{0})/
+
+ASSOC: Assoc#6
+modules: δ^0(usecasediagram{0})/
+
+ASSOC: Assoc#7
+modules: δ^1(deploymentdiagram{0})/δ(COGNITIVE{0})
+
+ASSOC: Assoc#8
+modules: δ^0(statediagram{0})/
+
+ASSOC: Assoc#9
+modules: δ^0(deploymentdiagram{0})/
+
+ASSOC: Assoc#10
+modules: δ^1(sequencediagram{0})/δ(LOGGING{0})
+
+ASSOC: Assoc#11
+modules: δ^1(sequencediagram{0})/δ(COLLABORATIONDIAGRAM{0})
+
+ASSOC: Assoc#12
+modules: δ^2(sequencediagram{0})/δ(LOGGING{0})δ(COLLABORATIONDIAGRAM{0})
+
+ASSOC: Assoc#13
+modules: δ^1(logging{0})/δ(DEPLOYMENTDIAGRAM{0})
+
+ASSOC: Assoc#14
+modules: δ^0(activitydiagram{0})/
+
+ASSOC: Assoc#15
+modules: δ^1(logging{0})/δ(COLLABORATIONDIAGRAM{0})
+
+ASSOC: Assoc#16
+modules: δ^1(statediagram{0})/δ(ACTIVITYDIAGRAM{0})
+
+ASSOC: Assoc#17
+modules: δ^1(statediagram{0})/δ(LOGGING{0})
+
+ASSOC: Assoc#18
+modules: δ^1(logging{0})/δ(ACTIVITYDIAGRAM{0})
+
+ASSOC: Assoc#19
+modules: δ^1(statediagram{0})/δ(SEQUENCEDIAGRAM{0})
+
+ASSOC: Assoc#20
+modules: δ^1(logging{0})/δ(USECASEDIAGRAM{0})
+
+ASSOC: Assoc#21
+modules: δ^1(¬logging{0})/δ(BASE{0})
+
+ASSOC: Assoc#22
+modules: δ^1(sequencediagram{0})/δ(COGNITIVE{0})
+
+ASSOC: Assoc#23
+modules: δ^1(deploymentdiagram{0})/δ(USECASEDIAGRAM{0})
+
+ASSOC: Assoc#24
+modules: δ^1(¬cognitive{0})/δ(BASE{0})
+

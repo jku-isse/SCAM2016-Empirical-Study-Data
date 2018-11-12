@@ -1,0 +1,97 @@
+ASSOC: Assoc#0
+modules: δ^0(selectmovie{0})/
+
+ASSOC: Assoc#1
+modules: δ^0(base{0})/
+
+ASSOC: Assoc#2
+modules: δ^1(stopmovie{0})/δ(SELECTMOVIE{0})
+
+ASSOC: Assoc#3
+modules: δ^0(changeserver{0})/
+
+ASSOC: Assoc#4
+modules: δ^0(stopmovie{0})/
+
+ASSOC: Assoc#5
+modules: δ^1(selectmovie{0})/δ(DETAIL{0})
+
+ASSOC: Assoc#6
+modules: δ^1(changeserver{0})/δ(SELECTMOVIE{0})
+
+ASSOC: Assoc#7
+modules: δ^0(vrcinterface{0})/
+
+ASSOC: Assoc#8
+modules: δ^1(selectmovie{0})/δ(VRCINTERFACE{0})
+
+ASSOC: Assoc#9
+modules: δ^1(startmovie{0})/δ(VRCINTERFACE{0})
+δ^1(pause{0})/δ(VRCINTERFACE{0})
+
+ASSOC: Assoc#10
+modules: δ^1(stopmovie{0})/δ(VRCINTERFACE{0})
+
+ASSOC: Assoc#11
+modules: δ^1(quitplayer{0})/δ(VRCINTERFACE{0})
+
+ASSOC: Assoc#12
+modules: δ^0(startmovie{0})/
+δ^0(pause{0})/
+δ^0(playimm{0})/
+
+ASSOC: Assoc#13
+modules: δ^1(playimm{0})/δ(SELECTMOVIE{0})
+δ^1(pause{0})/δ(SELECTMOVIE{0})
+δ^1(startmovie{0})/δ(SELECTMOVIE{0})
+
+ASSOC: Assoc#14
+modules: δ^1(playimm{0})/δ(SELECTMOVIE{0})
+δ^2(startmovie{0})/δ(PLAYIMM{0})δ(SELECTMOVIE{0})
+δ^2(pause{0})/δ(PLAYIMM{0})δ(SELECTMOVIE{0})
+
+ASSOC: Assoc#15
+modules: δ^1(pause{0})/δ(SELECTMOVIE{0})
+δ^2(startmovie{0})/δ(PAUSE{0})δ(SELECTMOVIE{0})
+δ^2(playimm{0})/δ(PAUSE{0})δ(SELECTMOVIE{0})
+
+ASSOC: Assoc#16
+modules: δ^2(startmovie{0})/δ(STOPMOVIE{0})δ(SELECTMOVIE{0})
+
+ASSOC: Assoc#17
+modules: δ^0(quitplayer{0})/
+
+ASSOC: Assoc#18
+modules: δ^1(quitplayer{0})/δ(SELECTMOVIE{0})
+
+ASSOC: Assoc#19
+modules: δ^0(startplayer{0})/
+
+ASSOC: Assoc#20
+modules: δ^1(startplayer{0})/δ(SELECTMOVIE{0})
+
+ASSOC: Assoc#21
+modules: δ^1(startmovie{0})/δ(STARTPLAYER{0})
+δ^1(pause{0})/δ(STARTPLAYER{0})
+
+ASSOC: Assoc#22
+modules: δ^1(startmovie{0})/δ(STARTPLAYER{0})
+δ^2(pause{0})/δ(STARTMOVIE{0})δ(STARTPLAYER{0})
+
+ASSOC: Assoc#23
+modules: δ^1(startplayer{0})/δ(STOPMOVIE{0})
+
+ASSOC: Assoc#24
+modules: δ^1(startplayer{0})/δ(QUITPLAYER{0})
+
+ASSOC: Assoc#25
+modules: δ^1(pause{0})/δ(SELECTMOVIE{0})
+δ^1(startmovie{0})/δ(SELECTMOVIE{0})
+
+ASSOC: Assoc#26
+modules: δ^1(playimm{0})/δ(SELECTMOVIE{0})
+
+ASSOC: Assoc#27
+modules: δ^0(startmovie{0})/
+δ^0(pause{0})/
+

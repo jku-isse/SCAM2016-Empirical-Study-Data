@@ -1,0 +1,32 @@
+SelectMovie, PlayImm, VRCInterface, StartMovie, StartPlayer, VOD
+SelectMovie, PlayImm, Pause, VRCInterface, StartMovie, StartPlayer, VOD
+SelectMovie, PlayImm, VRCInterface, StopMovie, StartMovie, ChangeServer, StartPlayer, VOD
+SelectMovie, PlayImm, Pause, VRCInterface, StopMovie, StartMovie, ChangeServer, StartPlayer, VOD
+SelectMovie, PlayImm, VRCInterface, StartMovie, ChangeServer, QuitPlayer, StartPlayer, VOD
+SelectMovie, PlayImm, Pause, VRCInterface, StartMovie, ChangeServer, QuitPlayer, StartPlayer, VOD
+SelectMovie, PlayImm, VRCInterface, StopMovie, StartMovie, ChangeServer, QuitPlayer, StartPlayer, VOD
+SelectMovie, PlayImm, Pause, VRCInterface, StopMovie, StartMovie, ChangeServer, QuitPlayer, StartPlayer, VOD
+SelectMovie, PlayImm, Detail, VRCInterface, StartMovie, StartPlayer, VOD
+SelectMovie, PlayImm, Detail, Pause, VRCInterface, StartMovie, StartPlayer, VOD
+SelectMovie, PlayImm, Detail, VRCInterface, StopMovie, StartMovie, StartPlayer, VOD
+SelectMovie, PlayImm, Detail, Pause, VRCInterface, StopMovie, StartMovie, StartPlayer, VOD
+SelectMovie, PlayImm, VRCInterface, StopMovie, StartMovie, StartPlayer, VOD
+SelectMovie, PlayImm, Detail, VRCInterface, StartMovie, QuitPlayer, StartPlayer, VOD
+SelectMovie, PlayImm, Detail, Pause, VRCInterface, StartMovie, QuitPlayer, StartPlayer, VOD
+SelectMovie, PlayImm, Detail, VRCInterface, StopMovie, StartMovie, QuitPlayer, StartPlayer, VOD
+SelectMovie, PlayImm, Detail, Pause, VRCInterface, StopMovie, StartMovie, QuitPlayer, StartPlayer, VOD
+SelectMovie, PlayImm, Detail, VRCInterface, StartMovie, ChangeServer, StartPlayer, VOD
+SelectMovie, PlayImm, Detail, Pause, VRCInterface, StartMovie, ChangeServer, StartPlayer, VOD
+SelectMovie, PlayImm, Detail, VRCInterface, StopMovie, StartMovie, ChangeServer, StartPlayer, VOD
+SelectMovie, PlayImm, Detail, Pause, VRCInterface, StopMovie, StartMovie, ChangeServer, StartPlayer, VOD
+SelectMovie, PlayImm, Detail, VRCInterface, StartMovie, ChangeServer, QuitPlayer, StartPlayer, VOD
+SelectMovie, PlayImm, Detail, Pause, VRCInterface, StartMovie, ChangeServer, QuitPlayer, StartPlayer, VOD
+SelectMovie, PlayImm, Pause, VRCInterface, StopMovie, StartMovie, StartPlayer, VOD
+SelectMovie, PlayImm, Detail, VRCInterface, StopMovie, StartMovie, ChangeServer, QuitPlayer, StartPlayer, VOD
+SelectMovie, PlayImm, Detail, Pause, VRCInterface, StopMovie, StartMovie, ChangeServer, QuitPlayer, StartPlayer, VOD
+SelectMovie, PlayImm, VRCInterface, StartMovie, QuitPlayer, StartPlayer, VOD
+SelectMovie, PlayImm, Pause, VRCInterface, StartMovie, QuitPlayer, StartPlayer, VOD
+SelectMovie, PlayImm, VRCInterface, StopMovie, StartMovie, QuitPlayer, StartPlayer, VOD
+SelectMovie, PlayImm, Pause, VRCInterface, StopMovie, StartMovie, QuitPlayer, StartPlayer, VOD
+SelectMovie, PlayImm, VRCInterface, StartMovie, ChangeServer, StartPlayer, VOD
+SelectMovie, PlayImm, Pause, VRCInterface, StartMovie, ChangeServer, StartPlayer, VOD

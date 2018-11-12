@@ -1,0 +1,100 @@
+Number of products: 32
+Number of associations: 28
+Existing Modules:
+order0: 10
+order1: 17
+order2: 5
+Granularity (number of unique artifacts in an association):
+granularity: 1256.0714285714287
+Granularity (top unique nodes):
+Assoc#0
+org.eclipse.jdt.core.dom.CompilationUnit:15 : 19
+org.eclipse.jdt.core.dom.MethodDeclaration:31 : 2
+org.eclipse.jdt.core.dom.ExpressionStatement:21 : 7
+org.eclipse.jdt.core.dom.FieldDeclaration:23 : 4
+Assoc#1
+org.eclipse.jdt.core.dom.CompilationUnit:15 : 12
+Assoc#2
+org.eclipse.jdt.core.dom.IfStatement:25 : 1
+org.eclipse.jdt.core.dom.ExpressionStatement:21 : 3
+Assoc#3
+org.eclipse.jdt.core.dom.CompilationUnit:15 : 4
+Assoc#4
+org.eclipse.jdt.core.dom.CompilationUnit:15 : 1
+org.eclipse.jdt.core.dom.MethodDeclaration:31 : 2
+Assoc#5
+org.eclipse.jdt.core.dom.CompilationUnit:15 : 3
+org.eclipse.jdt.core.dom.MethodDeclaration:31 : 1
+org.eclipse.jdt.core.dom.ExpressionStatement:21 : 6
+org.eclipse.jdt.core.dom.FieldDeclaration:23 : 2
+Assoc#6
+org.eclipse.jdt.core.dom.CompilationUnit:15 : 1
+org.eclipse.jdt.core.dom.MethodDeclaration:31 : 2
+org.eclipse.jdt.core.dom.ExpressionStatement:21 : 6
+org.eclipse.jdt.core.dom.FieldDeclaration:23 : 2
+Assoc#7
+org.eclipse.jdt.core.dom.ExpressionStatement:21 : 7
+org.eclipse.jdt.core.dom.FieldDeclaration:23 : 7
+Assoc#8
+org.eclipse.jdt.core.dom.ExpressionStatement:21 : 1
+org.eclipse.jdt.core.dom.FieldDeclaration:23 : 2
+Assoc#9
+org.eclipse.jdt.core.dom.ExpressionStatement:21 : 1
+org.eclipse.jdt.core.dom.FieldDeclaration:23 : 1
+Assoc#10
+org.eclipse.jdt.core.dom.ExpressionStatement:21 : 1
+org.eclipse.jdt.core.dom.FieldDeclaration:23 : 1
+Assoc#11
+org.eclipse.jdt.core.dom.ExpressionStatement:21 : 1
+org.eclipse.jdt.core.dom.FieldDeclaration:23 : 1
+Assoc#12
+org.eclipse.jdt.core.dom.MethodDeclaration:31 : 1
+Assoc#13
+org.eclipse.jdt.core.dom.IfStatement:25 : 1
+Assoc#14
+org.eclipse.jdt.core.dom.InfixExpression:27 : 1
+Assoc#15
+org.eclipse.jdt.core.dom.IfStatement:25 : 1
+org.eclipse.jdt.core.dom.ExpressionStatement:21 : 1
+Assoc#16
+org.eclipse.jdt.core.dom.ExpressionStatement:21 : 1
+Assoc#17
+org.eclipse.jdt.core.dom.CompilationUnit:15 : 1
+org.eclipse.jdt.core.dom.MethodDeclaration:31 : 2
+Assoc#18
+org.eclipse.jdt.core.dom.IfStatement:25 : 3
+org.eclipse.jdt.core.dom.ExpressionStatement:21 : 2
+Assoc#19
+org.eclipse.jdt.core.dom.MethodDeclaration:31 : 3
+Assoc#20
+org.eclipse.jdt.core.dom.VariableDeclarationStatement:60 : 1
+org.eclipse.jdt.core.dom.ExpressionStatement:21 : 8
+Assoc#21
+org.eclipse.jdt.core.dom.ExpressionStatement:21 : 3
+Assoc#22
+org.eclipse.jdt.core.dom.ExpressionStatement:21 : 1
+Assoc#23
+org.eclipse.jdt.core.dom.ExpressionStatement:21 : 4
+Assoc#24
+org.eclipse.jdt.core.dom.ExpressionStatement:21 : 4
+Assoc#25
+org.eclipse.jdt.core.dom.ExpressionStatement:21 : 1
+Assoc#26
+org.eclipse.jdt.core.dom.ExpressionStatement:21 : 1
+Assoc#27
+org.eclipse.jdt.core.dom.CompilationUnit:15 : 1
+Scattering:
+org.eclipse.jdt.core.dom.TypeDeclaration:55 : 2.125
+org.eclipse.jdt.core.dom.CompilationUnit:15 : 2.125
+org.eclipse.jdt.core.dom.MethodDeclaration:31 : 8.625
+Scattering per order:
+org.eclipse.jdt.core.dom.TypeDeclaration:55 : 1.375, 0.6614583333333334, 0.08854166666666666, 
+org.eclipse.jdt.core.dom.CompilationUnit:15 : 1.375, 0.6614583333333334, 0.08854166666666666, 
+org.eclipse.jdt.core.dom.MethodDeclaration:31 : 7.46875, 1.0364583333333333, 0.11979166666666666, 
+Tangling:
+org.eclipse.jdt.core.dom.TypeDeclaration:55 : 1.7619047619047619
+org.eclipse.jdt.core.dom.CompilationUnit:15 : 1.7619047619047619
+org.eclipse.jdt.core.dom.MethodDeclaration:31 : 1.153225806451613
+Dependencies:
+Coupling:
+Cohesion:

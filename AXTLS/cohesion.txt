@@ -1,0 +1,577 @@
+C:\Users\goldf_000\Desktop\Work\CaseStudies\C\axTLS-1.2.7\config\scripts\config\lxdialog\yesno.c: 82
+print_buttons(WINDOW, int, int, int): 13
+dialog_yesno(const char, const char, int, int): 69
+C:\Users\goldf_000\Desktop\Work\CaseStudies\C\axTLS-1.2.7\config\scripts\config\lxdialog\checklist.c: 350
+print_item(WINDOW, const char, int, int, int): 28
+print_arrows(WINDOW, int, int, int, int, int, int): 16
+print_buttons(WINDOW, int, int, int): 13
+dialog_checklist(const char, const char, int, int, int, int, struct dialog_list_item, int): 259
+C:\Users\goldf_000\Desktop\Work\CaseStudies\C\axTLS-1.2.7\crypto\md2.c: 30
+md2_process(MD2_CTX): 24
+C:\Users\goldf_000\Desktop\Work\CaseStudies\C\axTLS-1.2.7\config\scripts\config\lxdialog\util.c: 222
+attr_clear(WINDOW, int, int, chtype): 14
+dialog_clear(void): 3
+init_dialog(void): 0
+color_setup(void): 6
+end_dialog(void): 0
+print_autowrap(WINDOW, const char, int, int, int): 67
+print_button(WINDOW, const char, int, int, int): 28
+draw_box(WINDOW, int, int, int, int, chtype, chtype): 49
+draw_shadow(WINDOW, int, int, int, int): 24
+first_alpha(const char, const char): 17
+first_sel_item(int, struct dialog_list_item): 8
+C:\Users\goldf_000\Desktop\Work\CaseStudies\C\axTLS-1.2.7\config\scripts\config\util.c: 110
+sym_get_tristate_value(struct symbol): 1
+sym_get_choice_value(struct symbol): 1
+sym_set_choice_value(struct symbol, struct symbol): 1
+sym_is_choice(struct symbol): 1
+sym_is_choice_value(struct symbol): 1
+sym_is_optional(struct symbol): 1
+sym_has_value(struct symbol): 1
+file_lookup(const char): 16
+file_write_dep(const char): 17
+str_new(void): 4
+str_assign(const char): 5
+str_free(struct gstr): 4
+str_append(struct gstr, const char): 12
+str_printf(struct gstr, const char): 9
+str_get(struct gstr): 1
+C:\Users\goldf_000\Desktop\Work\CaseStudies\C\axTLS-1.2.7\crypto\bigint.c: 0
+C:\Users\goldf_000\Desktop\Work\CaseStudies\C\axTLS-1.2.7\ssl\ssl.h: 0
+C:\Users\goldf_000\Desktop\Work\CaseStudies\C\axTLS-1.2.7\config\scripts\config\expr.h: 16
+expr_is_yes(struct expr): 3
+expr_is_no(struct expr): 3
+C:\Users\goldf_000\Desktop\Work\CaseStudies\C\axTLS-1.2.7\config\scripts\config\lxdialog\msgbox.c: 44
+dialog_msgbox(const char, const char, int, int, int): 44
+C:\Users\goldf_000\Desktop\Work\CaseStudies\C\axTLS-1.2.7\crypto\aes.c: 200
+AES_xtime(uint32_t): 4
+AES_set_key(AES_CTX, const uint8_t, const uint8_t, AES_MODE): 74
+AES_convert_key(AES_CTX): 13
+AES_cbc_encrypt(AES_CTX, const uint8_t, uint8_t, int): 33
+AES_cbc_decrypt(AES_CTX, const uint8_t, uint8_t, int): 18
+AES_encrypt(const AES_CTX, uint32_t): 18
+AES_decrypt(const AES_CTX, uint32_t): 18
+C:\Users\goldf_000\Desktop\Work\CaseStudies\C\axTLS-1.2.7\config\scripts\config\lxdialog\textbox.c: 283
+dialog_textbox(const char, const char, int, int): 135
+back_lines(int): 8
+print_page(WINDOW, int, int): 11
+print_line(WINDOW, int, int): 20
+get_line(void): 12
+print_position(WINDOW, int, int): 10
+C:\Users\goldf_000\Desktop\Work\CaseStudies\C\axTLS-1.2.7\config\scripts\config\lkc_proto.h: 0
+C:\Users\goldf_000\Desktop\Work\CaseStudies\C\axTLS-1.2.7\ssl\tls1.h: 0
+C:\Users\goldf_000\Desktop\Work\CaseStudies\C\axTLS-1.2.7\axtlswrap\axtlswrap.c: 131
+main(int, char): 124
+C:\Users\goldf_000\Desktop\Work\CaseStudies\C\axTLS-1.2.7\ssl\loader.c: 277
+ssl_obj_load(SSL_CTX, int, const char, const char): 24
+ssl_obj_memory_load(SSL_CTX, int, const uint8_t, int, const char): 15
+do_obj(SSL_CTX, int, SSLObjLoader, const char): 22
+ssl_obj_free(SSLObjLoader): 3
+load_key_certs(SSL_CTX): 24
+pem_decrypt(const char, const char, const char, SSLObjLoader): 61
+new_pem_obj(SSL_CTX, int, char, int, const char): 61
+ssl_obj_PEM_load(SSL_CTX, int, SSLObjLoader, const char): 12
+C:\Users\goldf_000\Desktop\Work\CaseStudies\C\axTLS-1.2.7\ssl\tls1_clnt.c: 262
+ssl_client_new(SSL_CTX, int, const
+        uint8_t, uint8_t): 18
+do_clnt_handshake(SSL, int, uint8_t, int): 26
+do_client_connect(SSL): 16
+send_client_hello(SSL): 38
+process_server_hello(SSL): 41
+process_server_hello_done(SSL): 1
+send_client_key_xchg(SSL): 21
+process_cert_req(SSL): 9
+send_cert_verify(SSL): 25
+C:\Users\goldf_000\Desktop\Work\CaseStudies\C\axTLS-1.2.7\config\scripts\config\lkc.h: 17
+sym_get_tristate_value(struct symbol): 1
+sym_get_choice_value(struct symbol): 1
+sym_set_choice_value(struct symbol, struct symbol): 1
+sym_is_choice(struct symbol): 1
+sym_is_choice_value(struct symbol): 1
+sym_is_optional(struct symbol): 1
+sym_has_value(struct symbol): 1
+C:\Users\goldf_000\Desktop\Work\CaseStudies\C\axTLS-1.2.7\config\scripts\config\conf.c: 469
+sym_get_tristate_value(struct symbol): 1
+sym_get_choice_value(struct symbol): 1
+sym_set_choice_value(struct symbol, struct symbol): 1
+sym_is_choice(struct symbol): 1
+sym_is_choice_value(struct symbol): 1
+sym_is_optional(struct symbol): 1
+sym_has_value(struct symbol): 1
+strip(char): 13
+check_stdin(void): 0
+conf_askvalue(struct symbol, const char): 13
+conf_string(struct menu): 18
+conf_sym(struct menu): 28
+conf_choice(struct menu): 62
+conf(struct menu): 29
+check_conf(struct menu): 16
+main(int, char): 18
+C:\Users\goldf_000\Desktop\Work\CaseStudies\C\axTLS-1.2.7\ssl\private_key.h: 0
+C:\Users\goldf_000\Desktop\Work\CaseStudies\C\axTLS-1.2.7\config\scripts\config\expr.c: 1778
+sym_get_tristate_value(struct symbol): 1
+sym_get_choice_value(struct symbol): 1
+sym_set_choice_value(struct symbol, struct symbol): 1
+sym_is_choice(struct symbol): 1
+sym_is_choice_value(struct symbol): 1
+sym_is_optional(struct symbol): 1
+sym_has_value(struct symbol): 1
+expr_alloc_symbol(struct symbol): 6
+expr_alloc_one(enum expr_type, struct expr): 7
+expr_alloc_two(enum expr_type, struct expr, struct expr): 9
+expr_alloc_comp(enum expr_type, struct symbol, struct symbol): 9
+expr_alloc_and(struct expr, struct expr): 6
+expr_alloc_or(struct expr, struct expr): 6
+expr_copy(struct expr): 23
+expr_free(struct expr): 8
+__expr_eliminate_eq(enum expr_type, struct expr, struct expr): 34
+expr_eliminate_eq(struct expr, struct expr): 16
+expr_eq(struct expr, struct expr): 30
+expr_eliminate_yn(struct expr): 41
+expr_trans_bool(struct expr): 13
+expr_join_or(struct expr, struct expr): 64
+expr_join_and(struct expr, struct expr): 108
+expr_eliminate_dups1(enum expr_type, struct expr, struct expr): 39
+expr_eliminate_dups2(enum expr_type, struct expr, struct expr): 45
+expr_eliminate_dups(struct expr): 12
+expr_transform(struct expr): 61
+expr_contains_symbol(struct expr, struct symbol): 17
+expr_depends_symbol(struct expr, struct symbol): 13
+expr_extract_eq_and(struct expr, struct expr): 9
+expr_extract_eq_or(struct expr, struct expr): 9
+expr_extract_eq(enum expr_type, struct expr, struct expr, struct expr): 39
+expr_trans_compare(struct expr, enum expr_type, struct symbol): 41
+expr_calc_value(struct expr): 23
+expr_compare_type(enum expr_type, enum expr_type): 10
+expr_print(struct expr, void, void, int): 68
+expr_print_file_helper(void, const char): 3
+expr_fprint(struct expr, FILE): 2
+expr_print_gstr_helper(void, const char): 2
+expr_gstr_print(struct expr, struct gstr): 2
+C:\Users\goldf_000\Desktop\Work\CaseStudies\C\axTLS-1.2.7\httpd\axhttpd.c: 431
+reaper(int): 0
+main(int, char): 172
+addtoservers(int): 4
+handlenewconnection(int, int): 3
+openlistener(char, int): 24
+my_strncpy(char, const char, size_t): 6
+isdir(const char): 10
+addconnection(int, char, int): 22
+removeconnection(struct connstruct): 30
+ax_chdir(void): 2
+sigint_cleanup(int): 12
+die(int): 0
+addcgiext(const char): 8
+C:\Users\goldf_000\Desktop\Work\CaseStudies\C\axTLS-1.2.7\crypto\rc4.c: 67
+RC4_setup(RC4_CTX, const uint8_t, int): 25
+RC4_crypt(RC4_CTX, const uint8_t, uint8_t, int): 34
+C:\Users\goldf_000\Desktop\Work\CaseStudies\C\axTLS-1.2.7\httpd\proc.c: 848
+procheadelem(struct connstruct, char): 55
+procdirlisting(struct connstruct): 27
+procdodir(struct connstruct): 40
+procreadhead(struct connstruct): 39
+procsendhead(struct connstruct): 64
+procreadfile(struct connstruct): 12
+procsendfile(struct connstruct): 18
+proccgi(struct connstruct): 105
+decode_path_info(struct connstruct, char): 22
+urldecode(char): 25
+hexit(char): 9
+buildactualfile(struct connstruct): 47
+sanitizefile(const char): 11
+sanitizehost(char): 13
+exist_check(struct connstruct, const char): 4
+htaccess_check(struct connstruct): 13
+send_error(struct connstruct, int): 21
+getmimetype(const char): 2
+special_write(struct connstruct, const char, size_t): 8
+special_read(struct connstruct, void, size_t): 15
+cgi_filetype_match(struct connstruct, const char): 14
+init_read_post_data(char, char, struct connstruct, int): 25
+read_post_data(struct connstruct): 28
+urlencode(const uint8_t, char): 16
+send_authenticate(struct connstruct, const char): 6
+check_digest(char, const char): 21
+auth_check(struct connstruct): 24
+C:\Users\goldf_000\Desktop\Work\CaseStudies\C\axTLS-1.2.7\ssl\tls1_svr.c: 289
+ssl_server_new(SSL_CTX, int): 6
+do_svr_handshake(SSL, int, uint8_t, int): 28
+process_client_hello(SSL): 41
+send_server_hello_sequence(SSL): 15
+send_server_hello(SSL): 33
+send_server_hello_done(SSL): 1
+process_client_key_xchg(SSL): 27
+send_certificate_request(SSL): 1
+process_cert_verify(SSL): 16
+process_sslv23_client_hello(SSL): 40
+C:\Users\goldf_000\Desktop\Work\CaseStudies\C\axTLS-1.2.7\crypto\bigint.h: 1
+C:\Users\goldf_000\Desktop\Work\CaseStudies\C\axTLS-1.2.7\ssl\gen_cert.c: 265
+set_gen_length(int, uint8_t, int): 22
+pre_adjust_with_size(uint8_t, int, uint8_t, int): 7
+adjust_with_size(int, int, uint8_t, int): 16
+gen_serial_number(uint8_t, int): 6
+gen_signature_alg(uint8_t, int): 6
+gen_dn(const char, uint8_t, uint8_t, int): 34
+gen_issuer(const char, uint8_t, int): 39
+gen_utc_time(uint8_t, int): 6
+gen_pub_key2(const RSA_CTX, uint8_t, int): 31
+gen_pub_key1(const RSA_CTX, uint8_t, int): 9
+gen_pub_key(const RSA_CTX, uint8_t, int): 13
+gen_signature(const RSA_CTX, const uint8_t, uint8_t, int): 24
+gen_tbs_cert(const char, const RSA_CTX, uint8_t, int, uint8_t): 26
+ssl_x509_create(SSL_CTX, uint32_t, const char, uint8_t): 26
+C:\Users\goldf_000\Desktop\Work\CaseStudies\C\axTLS-1.2.7\httpd\htpasswd.c: 63
+base64_encode(const uint8_t, size_t, char, size_t): 25
+usage(void): 0
+getpass(const char): 12
+main(int, char): 23
+C:\Users\goldf_000\Desktop\Work\CaseStudies\C\axTLS-1.2.7\config\scripts\config\menu.c: 546
+sym_get_tristate_value(struct symbol): 1
+sym_get_choice_value(struct symbol): 1
+sym_set_choice_value(struct symbol, struct symbol): 1
+sym_is_choice(struct symbol): 1
+sym_is_choice_value(struct symbol): 1
+sym_is_optional(struct symbol): 1
+sym_has_value(struct symbol): 1
+menu_warn(struct menu, const char): 7
+prop_warn(struct property, const char): 7
+menu_init(void): 0
+menu_add_entry(struct symbol): 12
+menu_end_entry(void): 0
+menu_add_menu(void): 0
+menu_end_menu(void): 0
+menu_check_dep(struct expr): 12
+menu_add_dep(struct expr): 1
+menu_set_type(int): 8
+menu_add_prop(enum prop_type, char, struct expr, struct expr): 10
+menu_add_prompt(enum prop_type, char, struct expr): 3
+menu_add_expr(enum prop_type, struct expr, struct expr): 3
+menu_add_symbol(enum prop_type, struct symbol, struct expr): 3
+sym_check_prop(struct symbol): 34
+menu_finalize(struct menu): 140
+menu_is_visible(struct menu): 20
+menu_get_prompt(struct menu): 4
+menu_get_root_menu(struct menu): 0
+menu_get_parent_menu(struct menu): 8
+C:\Users\goldf_000\Desktop\Work\CaseStudies\C\axTLS-1.2.7\crypto\sha1.c: 240
+SHA1_Init(SHA1_CTX): 8
+SHA1_Update(SHA1_CTX, const uint8_t, int): 10
+SHA1_Final(uint8_t, SHA1_CTX): 12
+SHA1ProcessMessageBlock(SHA1_CTX): 129
+SHA1PadMessage(SHA1_CTX): 23
+C:\Users\goldf_000\Desktop\Work\CaseStudies\C\axTLS-1.2.7\crypto\crypto.h: 1
+C:\Users\goldf_000\Desktop\Work\CaseStudies\C\axTLS-1.2.7\config\scripts\config\symbol.c: 946
+sym_get_tristate_value(struct symbol): 1
+sym_get_choice_value(struct symbol): 1
+sym_set_choice_value(struct symbol, struct symbol): 1
+sym_is_choice(struct symbol): 1
+sym_is_choice_value(struct symbol): 1
+sym_is_optional(struct symbol): 1
+sym_has_value(struct symbol): 1
+sym_add_default(struct symbol, const char): 2
+sym_init(void): 11
+sym_get_type(struct symbol): 6
+sym_type_name(enum symbol_type): 1
+sym_get_choice_prop(struct symbol): 7
+sym_get_default_prop(struct symbol): 10
+sym_get_range_prop(struct symbol): 10
+sym_calc_visibility(struct symbol): 31
+sym_calc_choice(struct symbol): 33
+sym_calc_value(struct symbol): 90
+sym_clear_all_valid(void): 10
+sym_set_changed(struct symbol): 8
+sym_set_all_changed(void): 10
+sym_tristate_within_range(struct symbol, tristate): 14
+sym_set_tristate_value(struct symbol, tristate): 17
+sym_toggle_tristate_value(struct symbol): 12
+sym_string_valid(struct symbol, const char): 20
+sym_string_within_range(struct symbol, const char): 24
+sym_set_string_value(struct symbol, const char): 33
+sym_get_string_value(struct symbol): 5
+sym_is_changable(struct symbol): 2
+sym_lookup(const char, int): 18
+sym_find(const char): 20
+sym_re_search(const char): 34
+sym_check_expr_deps(struct expr): 16
+sym_check_deps(struct symbol): 26
+prop_alloc(enum prop_type, struct symbol): 19
+prop_get_symbol(struct property): 4
+prop_get_type_name(enum prop_type): 1
+C:\Users\goldf_000\Desktop\Work\CaseStudies\C\axTLS-1.2.7\crypto\hmac.c: 59
+hmac_md5(const uint8_t, int, const uint8_t, int, uint8_t): 29
+hmac_sha1(const uint8_t, int, const uint8_t, int, uint8_t): 29
+C:\Users\goldf_000\Desktop\Work\CaseStudies\C\axTLS-1.2.7\ssl\asn1.c: 360
+get_asn1_length(const uint8_t, int): 12
+asn1_next_obj(const uint8_t, int, int): 6
+asn1_skip_obj(const uint8_t, int, int): 9
+asn1_get_int(const uint8_t, int, uint8_t): 17
+asn1_get_private_key(const uint8_t, int, RSA_CTX): 74
+asn1_get_utc_time(const uint8_t, int, time_t): 32
+asn1_version(const uint8_t, int, X509_CTX): 5
+asn1_validity(const uint8_t, int, X509_CTX): 8
+asn1_get_oid_x520(const uint8_t, int): 14
+asn1_get_printable_str(const uint8_t, int, char): 27
+asn1_name(const uint8_t, int, char): 28
+asn1_public_key(const uint8_t, int, X509_CTX): 26
+asn1_signature_type(const uint8_t, int, X509_CTX): 19
+asn1_signature(const uint8_t, int, X509_CTX): 16
+asn1_compare_dn_comp(const char, const char): 10
+remove_ca_certs(CA_CERT_CTX): 9
+asn1_compare_dn(char, char): 7
+asn1_find_oid(const uint8_t, int, const uint8_t, int): 23
+asn1_find_subjectaltname(const uint8_t, int): 3
+C:\Users\goldf_000\Desktop\Work\CaseStudies\C\axTLS-1.2.7\config\scripts\config\confdata.c: 444
+sym_get_tristate_value(struct symbol): 1
+sym_get_choice_value(struct symbol): 1
+sym_set_choice_value(struct symbol, struct symbol): 1
+sym_is_choice(struct symbol): 1
+sym_is_choice_value(struct symbol): 1
+sym_is_optional(struct symbol): 1
+sym_has_value(struct symbol): 1
+conf_expand_value(const char): 27
+conf_get_default_confname(void): 11
+conf_read(const char): 107
+next_menu(struct menu): 8
+conf_write(const char): 136
+C:\Users\goldf_000\Desktop\Work\CaseStudies\C\axTLS-1.2.7\samples\c\axssl.c: 379
+main(int, char): 14
+do_server(int, char): 159
+do_client(int, char): 172
+print_options(char): 1
+print_server_options(char): 3
+print_client_options(char): 3
+display_cipher(SSL): 2
+display_session_id(SSL): 7
+C:\Users\goldf_000\Desktop\Work\CaseStudies\C\axTLS-1.2.7\ssl\openssl.c: 99
+SSLv23_server_method(void): 0
+SSLv3_server_method(void): 0
+TLSv1_server_method(void): 0
+SSLv23_client_method(void): 0
+SSLv3_client_method(void): 0
+TLSv1_client_method(void): 0
+SSL_CTX_new(ssl_func_type_t): 4
+SSL_CTX_free(SSL_CTX): 2
+SSL_new(SSL_CTX): 9
+SSL_set_fd(SSL, int): 2
+SSL_accept(SSL): 2
+SSL_free(SSL): 1
+SSL_read(SSL, void, int): 11
+SSL_write(SSL, const void, int): 3
+SSL_CTX_use_certificate_file(SSL_CTX, const char, int): 2
+SSL_CTX_use_PrivateKey_file(SSL_CTX, const char, int): 2
+SSL_CTX_use_certificate_ASN1(SSL_CTX, int, const uint8_t): 3
+SSL_CTX_set_session_id_context(SSL_CTX, const unsigned char, unsigned int): 0
+SSL_CTX_set_default_verify_paths(SSL_CTX): 0
+SSL_CTX_use_certificate_chain_file(SSL_CTX, const char): 2
+SSL_shutdown(SSL): 0
+SSL_get1_session(SSL): 1
+SSL_set_session(SSL, SSL_SESSION): 2
+SSL_SESSION_free(SSL_SESSION): 0
+SSL_CTX_ctrl(SSL_CTX, int, long, void): 0
+SSL_CTX_set_verify(SSL_CTX, int, int): 0
+SSL_CTX_set_verify_depth(SSL_CTX, int): 0
+SSL_CTX_load_verify_locations(SSL_CTX, const char, const char): 0
+SSL_load_client_CA_file(const char): 1
+SSL_CTX_set_client_CA_list(SSL_CTX, void): 2
+SSLv23_method(void): 0
+SSL_CTX_set_default_passwd_cb(SSL_CTX, void): 0
+SSL_CTX_set_default_passwd_cb_userdata(SSL_CTX, void): 1
+SSL_peek(SSL, void, int): 4
+SSL_set_bio(SSL, void, void): 0
+SSL_get_verify_result(const SSL): 1
+SSL_state(SSL): 0
+SSL_get_peer_certificate(const SSL): 1
+SSL_clear(SSL): 0
+SSL_CTX_check_private_key(const SSL_CTX): 0
+SSL_CTX_set_cipher_list(SSL, const char): 0
+SSL_get_error(const SSL, int): 1
+SSL_CTX_set_options(SSL_CTX, int): 0
+SSL_library_init(void): 0
+SSL_load_error_strings(void): 0
+ERR_print_errors_fp(FILE): 0
+BIO_printf(FILE, const char): 6
+BIO_s_null(void): 0
+BIO_new(bio_func_type_t): 1
+BIO_new_fp(FILE, int): 1
+BIO_free(FILE): 3
+SSL_connect(SSL): 1
+SSL_CTX_get_timeout(const SSL_CTX): 0
+SSL_CTX_set_timeout(SSL_CTX, long): 1
+C:\Users\goldf_000\Desktop\Work\CaseStudies\C\axTLS-1.2.7\crypto\bigint_impl.h: 0
+C:\Users\goldf_000\Desktop\Work\CaseStudies\C\axTLS-1.2.7\ssl\cert.h: 0
+C:\Users\goldf_000\Desktop\Work\CaseStudies\C\axTLS-1.2.7\ssl\x509.c: 347
+x509_new(const uint8_t, int, X509_CTX): 124
+x509_free(X509_CTX): 26
+get_signature(const uint8_t, int): 13
+sig_verify(BI_CTX, const uint8_t, int, bigint, bigint): 30
+x509_verify(const CA_CERT_CTX, const X509_CTX): 70
+x509_print(const X509_CTX, CA_CERT_CTX): 17
+x509_display_error(int): 1
+C:\Users\goldf_000\Desktop\Work\CaseStudies\C\axTLS-1.2.7\crypto\rsa.c: 221
+RSA_priv_key_new(RSA_CTX, const uint8_t, int, const uint8_t, int, const uint8_t, int, const uint8_t, int, const uint8_t, int, const uint8_t, int, const uint8_t, int, const uint8_t, int): 41
+RSA_pub_key_new(RSA_CTX, const uint8_t, int, const uint8_t, int): 21
+RSA_free(RSA_CTX): 24
+RSA_decrypt(const RSA_CTX, const uint8_t, uint8_t, int): 34
+RSA_private(const RSA_CTX, bigint): 12
+RSA_print(const RSA_CTX): 5
+RSA_public(const RSA_CTX, bigint): 4
+RSA_encrypt(const RSA_CTX, const uint8_t, uint16_t, uint8_t, int): 27
+C:\Users\goldf_000\Desktop\Work\CaseStudies\C\axTLS-1.2.7\crypto\md5.c: 49
+MD5Transform(uint32_t, const uint8_t): 11
+Encode(uint8_t, uint32_t, uint32_t): 22
+Decode(uint32_t, const uint8_t, uint32_t): 16
+C:\Users\goldf_000\Desktop\Work\CaseStudies\C\axTLS-1.2.7\ssl\p12.c: 340
+pkcs8_decode(SSL_CTX, SSLObjLoader, const char): 31
+p8_add_key(SSL_CTX, uint8_t): 15
+make_uni_pass(const char, int): 19
+p8_decrypt(const char, int, const uint8_t, int, uint8_t, int, int): 41
+pkcs12_decode(SSL_CTX, SSLObjLoader, const char): 195
+get_pbe_params(uint8_t, int, const uint8_t, int): 38
+C:\Users\goldf_000\Desktop\Work\CaseStudies\C\axTLS-1.2.7\config\scripts\config\lxdialog\menubox.c: 418
+print_item(WINDOW, const char, int, int, int): 33
+print_arrows(WINDOW, int, int, int, int, int): 22
+print_buttons(WINDOW, int, int, int): 17
+dialog_menu(const char, const char, int, int, int, const char, int, struct dialog_list_item): 307
+C:\Users\goldf_000\Desktop\Work\CaseStudies\C\axTLS-1.2.7\ssl\os_port.c: 47
+gettimeofday(struct timeval, void): 7
+strcasecmp(const char, const char): 5
+getdomainname(char, int): 6
+ax_malloc(size_t): 3
+ax_realloc(void, size_t): 4
+ax_calloc(size_t, size_t): 4
+ax_open(const char, int): 5
+exit_now(const char): 5
+C:\Users\goldf_000\Desktop\Work\CaseStudies\C\axTLS-1.2.7\ssl\version.h: 0
+C:\Users\goldf_000\Desktop\Work\CaseStudies\C\axTLS-1.2.7\config\scripts\config\mconf.c: 645
+sym_get_tristate_value(struct symbol): 1
+sym_get_choice_value(struct symbol): 1
+sym_set_choice_value(struct symbol, struct symbol): 1
+sym_is_choice(struct symbol): 1
+sym_is_choice_value(struct symbol): 1
+sym_is_optional(struct symbol): 1
+sym_has_value(struct symbol): 1
+init_wsize(void): 9
+cinit(void): 0
+cmake(void): 0
+cprint_name(const char): 9
+cprint_tag(const char): 7
+cdone(void): 6
+get_prompt_str(struct gstr, struct property): 36
+get_symbol_str(struct gstr, struct symbol): 32
+get_relations_str(struct symbol): 11
+search_conf(void): 6
+build_conf(struct menu): 58
+conf(struct menu): 47
+show_textbox(const char, const char, int, int): 8
+show_helptext(const char, const char): 2
+show_help(struct menu): 7
+show_file(const char, const char, int, int): 4
+conf_choice(struct menu): 23
+conf_string(struct menu): 10
+conf_load(void): 0
+conf_save(void): 0
+conf_cleanup(void): 0
+winch_handler(int): 3
+main(int, char): 12
+C:\Users\goldf_000\Desktop\Work\CaseStudies\C\axTLS-1.2.7\ssl\crypto_misc.h: 0
+C:\Users\goldf_000\Desktop\Work\CaseStudies\C\axTLS-1.2.7\config\scripts\config\lxdialog\dialog.h: 0
+C:\Users\goldf_000\Desktop\Work\CaseStudies\C\axTLS-1.2.7\config\scripts\config\lxdialog\colors.h: 0
+C:\Users\goldf_000\Desktop\Work\CaseStudies\C\axTLS-1.2.7\ssl\tls1.c: 1156
+ssl_ctx_new(uint32_t, int): 10
+ssl_ctx_free(SSL_CTX): 26
+ssl_free(SSL): 19
+ssl_read(SSL, uint8_t): 7
+ssl_write(SSL, const uint8_t, int): 17
+add_cert(SSL_CTX, const uint8_t, int): 33
+ssl_find(SSL_CTX, int): 8
+ssl_renegotiate(SSL): 5
+get_cipher_info(uint8_t): 6
+ssl_new(SSL_CTX, int): 22
+add_private_key(SSL_CTX, SSLObjLoader): 5
+increment_read_sequence(SSL): 5
+increment_write_sequence(SSL): 5
+add_hmac_digest(SSL, int, uint8_t, const uint8_t, int, uint8_t): 23
+verify_digest(SSL, int, const uint8_t, int): 20
+add_packet(SSL, const uint8_t, int): 6
+p_hash_md5(const uint8_t, int, uint8_t, int, uint8_t, int): 27
+p_hash_sha1(const uint8_t, int, uint8_t, int, uint8_t, int): 27
+prf(const uint8_t, int, uint8_t, int, uint8_t, int): 31
+generate_master_secret(SSL, const uint8_t): 8
+generate_key_block(uint8_t, uint8_t, uint8_t, uint8_t, int): 9
+finished_digest(SSL, const char, uint8_t): 10
+crypt_new(SSL, uint8_t, uint8_t, int): 4
+send_raw_packet(SSL, uint8_t): 32
+send_packet(SSL, uint8_t, const uint8_t, int): 70
+set_key_block(SSL, int): 61
+basic_read(SSL, uint8_t): 76
+do_handshake(SSL, uint8_t, int): 42
+send_change_cipher_spec(SSL): 6
+send_finished(SSL): 12
+send_alert(SSL, int): 22
+process_finished(SSL, int): 17
+send_certificate(SSL): 36
+disposable_new(SSL): 4
+disposable_free(SSL): 5
+ssl_get_session_id(const SSL): 1
+ssl_get_session_id_size(const SSL): 1
+ssl_get_cipher_id(const SSL): 1
+ssl_handshake_status(const SSL): 1
+ssl_get_config(int): 1
+ssl_version(): 1
+add_cert_auth(SSL_CTX, const uint8_t, int): 24
+process_certificate(SSL, X509_CTX): 34
+ssl_session_update(int, SSL_SESSION, SSL, const uint8_t): 55
+session_free(SSL_SESSION, int): 6
+kill_ssl_session(SSL_SESSION, SSL): 4
+ssl_display_error(int): 0
+ssl_get_cert_dn(const SSL, int): 0
+ssl_get_cert_subject_alt_dnsname(const SSL, int): 0
+ssl_verify_cert(const SSL): 0
+ssl_client_new(SSL_CTX, int, const
+        uint8_t, uint8_t): 0
+C:\Users\goldf_000\Desktop\Work\CaseStudies\C\axTLS-1.2.7\config\scripts\config\lxdialog\inputbox.c: 194
+print_buttons(WINDOW, int, int, int): 13
+dialog_inputbox(const char, const char, int, int, const char): 181
+C:\Users\goldf_000\Desktop\Work\CaseStudies\C\axTLS-1.2.7\crypto\crypto_misc.c: 43
+get_random_NZ(int, uint8_t): 10
+get_file(const char, uint8_t): 21
+print_hex_init(int): 1
+print_hex(uint8_t): 6
+C:\Users\goldf_000\Desktop\Work\CaseStudies\C\axTLS-1.2.7\httpd\tdate_parse.c: 54
+day_mon_map_compare(const char, const char): 2
+tdate_init(void): 0
+day_mon_map_search(const char, const struct day_mon_map, int): 2
+tdate_parse(const char): 35
+C:\Users\goldf_000\Desktop\Work\CaseStudies\C\axTLS-1.2.7\ssl\os_port.h: 0
+C:\Users\goldf_000\Desktop\Work\CaseStudies\C\axTLS-1.2.7\ssl\test\ssltest.c: 651
+AES_test(BI_CTX): 32
+RC4_test(BI_CTX): 15
+SHA1_test(BI_CTX): 14
+MD5_test(BI_CTX): 14
+HMAC_test(BI_CTX): 41
+BIGINT_test(BI_CTX): 29
+RSA_test(void): 39
+cert_tests(void): 51
+server_socket_init(int): 16
+client_socket_init(uint16_t): 11
+do_client(client_t): 4
+SSL_server_test(const char, const char, const char, const char, const char, const char, const char, int): 54
+SSL_server_tests(void): 33
+do_server(server_t): 3
+SSL_client_test(const char, SSL_CTX, const char, CLNT_SESSION_RESUME_CTX, uint32_t, const char, const char, const char): 59
+SSL_client_tests(void): 39
+do_basic(void): 11
+SSL_basic_test(void): 30
+do_header_issue(void): 2
+header_issue(void): 21
+main(int, char): 17
+do_multi_clnt(multi_t): 19
+do_multi_svr(SSL): 13
+multi_thread_test(void): 18
+C:\Users\goldf_000\Desktop\Work\CaseStudies\C\axTLS-1.2.7\httpd\axhttp.h: 0
+C:\Users\goldf_000\Desktop\Work\CaseStudies\C\axTLS-1.2.7\ssl\test\perf_bigint.c: 79
+main(int, char): 79
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTTranslationUnit : 13553.0
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTFunctionDefinition : 9664.0
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTTranslationUnit : 237.7719298245614
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTFunctionDefinition : 18.801556420233464

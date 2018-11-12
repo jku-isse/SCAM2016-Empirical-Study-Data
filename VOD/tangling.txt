@@ -1,0 +1,744 @@
+MPEGDecoder.ListFrameListener4 [org.eclipse.jdt.core.dom.CompilationUnit:15] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+ListFrameListener4 [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+ListFrameListener4(ListFrame) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+actionPerformed(ActionEvent) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+MPEGDecoder.ListFrameListener2 [org.eclipse.jdt.core.dom.CompilationUnit:15] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+ListFrameListener2 [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+ListFrameListener2(ListFrame) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+actionPerformed(ActionEvent) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+MPEGDecoder.ServerReq [org.eclipse.jdt.core.dom.CompilationUnit:15] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+ServerReq [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+ServerReq(String, int) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+connect() [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+connect(String) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+disconnect() [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+gethost() [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+getmovie(String) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+getmovielist() [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+terminateConnection() [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+isConnected() [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+MPEGDecoder.Video [org.eclipse.jdt.core.dom.CompilationUnit:15] [UNIQUE] [UNORDERED] <> : 2
+Assoc#0
+Assoc#2
+Video [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <> : 2
+Assoc#0
+Assoc#2
+Video(BorderPanel, Label, Label, VODClient) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+destroy() [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+parse_sequence_header() [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+run() [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 2
+Assoc#0
+Assoc#2
+setratecontrol(boolean) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+setvideostream(URL) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+stopmovie() [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+MPEGDecoder.MacroblockNew [org.eclipse.jdt.core.dom.CompilationUnit:15] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+MacroblockNew [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+MacroblockNew(BitInputStream, DataStore) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+MPEGDecoder.VODClientListener1 [org.eclipse.jdt.core.dom.CompilationUnit:15] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+VODClientListener1 [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+VODClientListener1(VODClient) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+actionPerformed(ActionEvent) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+MPEGDecoder.BitInputStream [org.eclipse.jdt.core.dom.CompilationUnit:15] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+BitInputStream [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+BitInputStream(InputStream) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+close() [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+bytealign() [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+bytealigned() [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+flushaligned(int) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+flushbits(int) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+next_start_code() [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+nextaligned(int) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+nextbits(int) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+readaligned(int) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+readbit() [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+readbits(int) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+readbuffer() [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+readbyte() [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+readint() [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+readshort() [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+MPEGDecoder.IDCT [org.eclipse.jdt.core.dom.CompilationUnit:15] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+IDCT [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+IDCT() [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+fast_fidct64_rowcol(int) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+fast_idct64_rowcol(int) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+fidct_col(int, int) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+fidct_row(int, int) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+iidct_col(int, int) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+iidct_row(int, int) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+MPEGDecoder.ListFrame [org.eclipse.jdt.core.dom.CompilationUnit:15] [UNIQUE] [UNORDERED] <> : 3
+Assoc#0
+Assoc#5
+Assoc#6
+ListFrame [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <> : 3
+Assoc#0
+Assoc#5
+Assoc#6
+ListFrame(ServerReq, VODClient) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 3
+Assoc#0
+Assoc#5
+Assoc#6
+buttonControl2_actionPerformed(ActionEvent) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+buttonControl4_actionPerformed(ActionEvent) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+hostreset() [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+jbInit() [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 3
+Assoc#0
+Assoc#5
+Assoc#6
+buttonControl3_actionPerformed(ActionEvent) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#5
+buttonControl1_actionPerformed(ActionEvent) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#6
+changeserver(String) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#6
+MPEGDecoder.VODClient [org.eclipse.jdt.core.dom.CompilationUnit:15] [UNIQUE] [UNORDERED] <> : 29
+Assoc#0
+Assoc#1
+Assoc#2
+Assoc#4
+Assoc#7
+Assoc#8
+Assoc#9
+Assoc#10
+Assoc#11
+Assoc#12
+Assoc#13
+Assoc#14
+Assoc#15
+Assoc#16
+Assoc#17
+Assoc#18
+Assoc#19
+Assoc#20
+Assoc#21
+Assoc#22
+Assoc#23
+Assoc#24
+Assoc#25
+Assoc#26
+VODClient [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <> : 29
+Assoc#0
+Assoc#1
+Assoc#2
+Assoc#4
+Assoc#7
+Assoc#8
+Assoc#9
+Assoc#10
+Assoc#11
+Assoc#12
+Assoc#13
+Assoc#14
+Assoc#15
+Assoc#16
+Assoc#17
+Assoc#18
+Assoc#19
+Assoc#20
+Assoc#21
+Assoc#22
+Assoc#23
+Assoc#24
+Assoc#25
+Assoc#26
+VODClient() [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 8
+Assoc#0
+Assoc#1
+Assoc#7
+Assoc#8
+Assoc#9
+Assoc#10
+Assoc#11
+buttonControl1_actionPerformed(ActionEvent) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+clearmovie() [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 2
+Assoc#0
+Assoc#1
+destroy() [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 3
+Assoc#0
+Assoc#1
+Assoc#16
+selectmovie(String) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 4
+Assoc#0
+Assoc#25
+Assoc#26
+getAppletInfo() [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#1
+getParameterInfo() [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#1
+buttonControl3_actionPerformed(ActionEvent) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 3
+Assoc#2
+Assoc#4
+Assoc#16
+stopmovie() [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#4
+buttonControl2_actionPerformed(ActionEvent) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 9
+Assoc#12
+Assoc#13
+Assoc#14
+Assoc#15
+buttonControl4_actionPerformed(ActionEvent) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 2
+Assoc#17
+Assoc#18
+processWindowEvent(WindowEvent) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#17
+init() [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 2
+Assoc#19
+Assoc#20
+jbInit() [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 7
+Assoc#19
+Assoc#20
+Assoc#21
+Assoc#22
+Assoc#23
+Assoc#24
+main(String) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#19
+MPEGDecoder.FrameImage [org.eclipse.jdt.core.dom.CompilationUnit:15] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+FrameImage [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+FrameImage() [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+addblock(int, int, int, boolean, int) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+average(int, int, int, int) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+chrom_average(int, int, int, int, int, int) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+exchangepicture(int) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+getIImage() [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+getImage() [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+getImage(int, int, int) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+getPImage() [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+newsequence(int, int) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+recon(int, int, int, int, int) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+recon_chrom(int, int, int, int, int, int, int) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+recon_chrom_down(int, int, int, int, int, int, int) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+recon_chrom_right(int, int, int, int, int, int, int) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+recon_chrom_rightdown(int, int, int, int, int, int, int) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+recon_down(int, int, int, int, int) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+recon_right(int, int, int, int, int) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+recon_rightdown(int, int, int, int, int) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+reconstruct(int, int, int, int) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+startnewpicture(int) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+MPEGDecoder.GOP [org.eclipse.jdt.core.dom.CompilationUnit:15] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+GOP [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+GOP(BitInputStream, DataStore, Label) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+clearnumofpic() [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+getnumofpic() [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+read_gop() [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+setstream(BitInputStream) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+MPEGDecoder.GOPHeader [org.eclipse.jdt.core.dom.CompilationUnit:15] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+GOPHeader [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+GOPHeader() [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+MPEGDecoder.Macroblock [org.eclipse.jdt.core.dom.CompilationUnit:15] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+Macroblock [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+Macroblock(BitInputStream, DataStore) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+calcMV(int, int, int, int, boolean) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+getBMBtype() [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+getCBP() [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+getDCchrom() [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+getDClum() [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+getDMBtype() [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+getIMBtype() [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+getMBA() [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+getMV() [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+getPMBtype() [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+getinterblock(int) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+getinterblock1(int) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+getintrablock(int, int[]) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+is_nextslice() [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+motion_vector(int[], int, boolean) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+read_macroblock() [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+read_slice() [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+setstream(BitInputStream) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+MPEGDecoder.Movie [org.eclipse.jdt.core.dom.CompilationUnit:15] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+Movie [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+Movie(String, String) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+Movie(String, String, String, String, String) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+addscreen_shut(String) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+getactor() [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+getdescription() [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+getdirector() [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+getscreen_shut() [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+getstream_url() [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+gettitle() [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+MPEGDecoder.SequenceHeader [org.eclipse.jdt.core.dom.CompilationUnit:15] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+SequenceHeader [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+SequenceHeader() [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+MPEGDecoder.MacroHeader [org.eclipse.jdt.core.dom.CompilationUnit:15] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+MacroHeader [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+MacroHeader() [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+MPEGDecoder.PictureHeader [org.eclipse.jdt.core.dom.CompilationUnit:15] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+PictureHeader [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+PictureHeader() [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+MPEGDecoder.Picture [org.eclipse.jdt.core.dom.CompilationUnit:15] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+Picture [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+Picture(BitInputStream, DataStore) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+read_picture() [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+setstream(BitInputStream) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+MPEGDecoder.DataStore [org.eclipse.jdt.core.dom.CompilationUnit:15] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+DataStore [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+DataStore(BorderPanel) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+MBAinc(int) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+change_quantierscale(int) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+clearblock(int) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+clearprevdisptime() [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+decodeblock() [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+exchangeIframe() [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+exchangePframe() [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+exchangeframe() [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+getMBA() [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+getbackward_r_size() [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+getblock(int) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+getforward_r_size() [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+getfull_pel_backward_vector() [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+getfull_pel_forward_vector() [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+getmacroblock_type() [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+getpicture_coding_type() [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+getquant_scale() [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+newframe() [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+newslice(int) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+newsquence() [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+resetMBA() [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+resetpastdct() [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+setgopheader(GOPHeader) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+setmacroheader(MacroHeader) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+setnonintra(boolean) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+setpictureheader(PictureHeader) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+setratecontrol(boolean) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+setsequenceheader(SequenceHeader) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+showIframe() [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+showPframe() [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+showframe() [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+skipblock() [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+startnewpicture(int) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#0
+MPEGDecoder.Block [org.eclipse.jdt.core.dom.CompilationUnit:15] [UNIQUE] [UNORDERED] <> : 1
+Assoc#1
+Block [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <> : 1
+Assoc#1
+Block(BitInputStream, DataStore) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#1
+getDCchrom() [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#1
+getDClum() [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#1
+getinterblock(int) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#1
+getintrablock(int, int) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#1
+read_block(int) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#1
+setstream(BitInputStream) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#1
+MPEGDecoder.ImageButton [org.eclipse.jdt.core.dom.CompilationUnit:15] [UNIQUE] [UNORDERED] <> : 1
+Assoc#1
+ImageButton [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <> : 1
+Assoc#1
+ImageButton(int) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#1
+ImageButton(Image, int) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#1
+ImageButton(Image, Image, int) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#1
+ImageButton(Image, Image, int, int) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#1
+check() [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#1
+getImage() [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#1
+getLabel() [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#1
+isEnabled() [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#1
+minimumSize() [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#1
+mouseDown(Event, int, int) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#1
+mouseUp(Event, int, int) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#1
+paint(Graphics) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#1
+paintAll(Graphics) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#1
+preferredSize() [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#1
+repaint() [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#1
+setButton(boolean) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#1
+setEnable(boolean) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#1
+setImage1(Image) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#1
+setImage2(Image) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#1
+setLabel(String) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#1
+update(Graphics) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#1
+MPEGDecoder.SliceHeader [org.eclipse.jdt.core.dom.CompilationUnit:15] [UNIQUE] [UNORDERED] <> : 1
+Assoc#1
+SliceHeader [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <> : 1
+Assoc#1
+MPEGDecoder.Slice [org.eclipse.jdt.core.dom.CompilationUnit:15] [UNIQUE] [UNORDERED] <> : 1
+Assoc#1
+Slice [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <> : 1
+Assoc#1
+Slice(BitInputStream, DataStore) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#1
+setstream(BitInputStream) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#1
+read_slice() [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#1
+is_nextslice() [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#1
+MPEGDecoder.SliceHeaderNew [org.eclipse.jdt.core.dom.CompilationUnit:15] [UNIQUE] [UNORDERED] <> : 1
+Assoc#1
+SliceHeaderNew [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <> : 1
+Assoc#1
+SliceHeaderNew() [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#1
+MPEGDecoder.Time [org.eclipse.jdt.core.dom.CompilationUnit:15] [UNIQUE] [UNORDERED] <> : 1
+Assoc#1
+Time [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <> : 1
+Assoc#1
+Time(Label) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#1
+run() [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#1
+MPEGDecoder.ScreenPanel [org.eclipse.jdt.core.dom.CompilationUnit:15] [UNIQUE] [UNORDERED] <> : 1
+Assoc#1
+ScreenPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <> : 1
+Assoc#1
+ScreenPanel() [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#1
+clearscreen() [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#1
+drawBar(Graphics, int, int, int, int) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#1
+jbInit() [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#1
+paint(Graphics) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#1
+setImage(Image) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#1
+setImageSize(int, int) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#1
+update(Graphics) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#1
+MPEGDecoder.BorderPanel [org.eclipse.jdt.core.dom.CompilationUnit:15] [UNIQUE] [UNORDERED] <> : 1
+Assoc#1
+BorderPanel [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <> : 1
+Assoc#1
+BorderPanel() [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#1
+BorderPanel(int) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#1
+BorderPanel(int, Color, Color) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#1
+BorderPanel(Color, Color) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#1
+clearscreen() [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#1
+insets() [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#1
+paint(Graphics) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#1
+setImage(Image) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#1
+setImageSize(int, int) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#1
+update(Graphics) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#1
+MPEGDecoder.CONST [org.eclipse.jdt.core.dom.CompilationUnit:15] [UNIQUE] [UNORDERED] <> : 1
+Assoc#1
+CONST [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <> : 1
+Assoc#1
+CONST() [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#1
+MPEGDecoder.BlockHeader [org.eclipse.jdt.core.dom.CompilationUnit:15] [UNIQUE] [UNORDERED] <> : 1
+Assoc#1
+BlockHeader [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <> : 1
+Assoc#1
+BlockHeader() [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#1
+MPEGDecoder.PlayTimer [org.eclipse.jdt.core.dom.CompilationUnit:15] [UNIQUE] [UNORDERED] <> : 1
+Assoc#1
+PlayTimer [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <> : 1
+Assoc#1
+PlayTimer(Label) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#1
+run() [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#1
+stoptime() [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#1
+MPEGDecoder.ServerSelectListener2 [org.eclipse.jdt.core.dom.CompilationUnit:15] [UNIQUE] [UNORDERED] <> : 1
+Assoc#3
+ServerSelectListener2 [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <> : 1
+Assoc#3
+ServerSelectListener2(ServerSelect) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#3
+actionPerformed(ActionEvent) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#3
+MPEGDecoder.ServerSelectListener1 [org.eclipse.jdt.core.dom.CompilationUnit:15] [UNIQUE] [UNORDERED] <> : 1
+Assoc#3
+ServerSelectListener1 [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <> : 1
+Assoc#3
+ServerSelectListener1(ServerSelect) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#3
+actionPerformed(ActionEvent) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#3
+MPEGDecoder.ServerSelectListener3 [org.eclipse.jdt.core.dom.CompilationUnit:15] [UNIQUE] [UNORDERED] <> : 1
+Assoc#3
+ServerSelectListener3 [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <> : 1
+Assoc#3
+ServerSelectListener3(ServerSelect) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#3
+actionPerformed(ActionEvent) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#3
+MPEGDecoder.ServerSelect [org.eclipse.jdt.core.dom.CompilationUnit:15] [UNIQUE] [UNORDERED] <> : 1
+Assoc#3
+ServerSelect [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <> : 1
+Assoc#3
+ServerSelect(ListFrame) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#3
+button1_actionPerformed(ActionEvent) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#3
+button2_actionPerformed(ActionEvent) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#3
+jbInit() [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#3
+textField1_actionPerformed(ActionEvent) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#3
+MPEGDecoder.VODClientListener3 [org.eclipse.jdt.core.dom.CompilationUnit:15] [UNIQUE] [UNORDERED] <> : 1
+Assoc#4
+VODClientListener3 [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <> : 1
+Assoc#4
+VODClientListener3(VODClient) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#4
+actionPerformed(ActionEvent) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#4
+MPEGDecoder.Detail [org.eclipse.jdt.core.dom.CompilationUnit:15] [UNIQUE] [UNORDERED] <> : 1
+Assoc#5
+Detail [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <> : 1
+Assoc#5
+Detail() [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#5
+button1_actionPerformed(ActionEvent) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#5
+jbInit() [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#5
+setmovie(Movie) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#5
+MPEGDecoder.ListFrameListener3 [org.eclipse.jdt.core.dom.CompilationUnit:15] [UNIQUE] [UNORDERED] <> : 1
+Assoc#5
+ListFrameListener3 [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <> : 1
+Assoc#5
+ListFrameListener3(ListFrame) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#5
+actionPerformed(ActionEvent) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#5
+MPEGDecoder.DetailListener1 [org.eclipse.jdt.core.dom.CompilationUnit:15] [UNIQUE] [UNORDERED] <> : 1
+Assoc#5
+DetailListener1 [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <> : 1
+Assoc#5
+DetailListener1(Detail) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#5
+actionPerformed(ActionEvent) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#5
+MPEGDecoder.ListFrameListener1 [org.eclipse.jdt.core.dom.CompilationUnit:15] [UNIQUE] [UNORDERED] <> : 1
+Assoc#6
+ListFrameListener1 [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <> : 1
+Assoc#6
+ListFrameListener1(ListFrame) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#6
+actionPerformed(ActionEvent) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#6
+MPEGDecoder.VODClientListener4 [org.eclipse.jdt.core.dom.CompilationUnit:15] [UNIQUE] [UNORDERED] <> : 1
+Assoc#17
+VODClientListener4 [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <> : 1
+Assoc#17
+VODClientListener4(VODClient) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#17
+actionPerformed(ActionEvent) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 1
+Assoc#17
+MPEGDecoder.VODClientListener2 [org.eclipse.jdt.core.dom.CompilationUnit:15] [UNIQUE] [UNORDERED] <> : 2
+Assoc#27
+VODClientListener2 [org.eclipse.jdt.core.dom.TypeDeclaration:55] [UNIQUE] [UNORDERED] <> : 2
+Assoc#27
+VODClientListener2(VODClient) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 2
+Assoc#27
+actionPerformed(ActionEvent) [org.eclipse.jdt.core.dom.MethodDeclaration:31] [UNIQUE] [UNORDERED] <> : 2
+Assoc#27

@@ -1,0 +1,289 @@
+Number of products: 20
+Number of associations: 61
+Existing Modules:
+order0: 25
+order1: 26
+order2: 9
+Granularity (number of unique artifacts in an association):
+granularity: 1875.5409836065573
+Granularity (top unique nodes):
+Assoc#0
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTTranslationUnit : 57
+Assoc#1
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTSimpleDeclaration : 69
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTProblemDeclaration : 8
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTFunctionDefinition : 14
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTDeclarationStatement : 13
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTDeclarator : 1
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTIfStatement : 13
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTCaseStatement : 4
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTForStatement : 2
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTExpressionStatement : 44
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTParameterDeclaration : 1
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTReturnStatement : 1
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTLabelStatement : 1
+Assoc#2
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTSimpleDeclaration : 22
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTProblemDeclaration : 5
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTFunctionDefinition : 3
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTNullStatement : 1
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTDeclarator : 1
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTIfStatement : 5
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTExpressionStatement : 5
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTParameterDeclaration : 7
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTReturnStatement : 1
+Assoc#3
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTSimpleDeclaration : 1
+Assoc#4
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTSimpleDeclaration : 3
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTFunctionDefinition : 14
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTDeclarationStatement : 3
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTLinkageSpecification : 1
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTIfStatement : 1
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTExpressionStatement : 4
+Assoc#5
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTProblemDeclaration : 9
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTFunctionDefinition : 11
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTIfStatement : 9
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTForStatement : 2
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTExpressionStatement : 11
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTLabelStatement : 1
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTSimpleDeclaration : 61
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTDeclarationStatement : 9
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTDeclarator : 1
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTLinkageSpecification : 1
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTCaseStatement : 3
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTParameterDeclaration : 2
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTReturnStatement : 1
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTLiteralExpression : 103
+Assoc#6
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTEnumerator : 7
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTSimpleDeclaration : 7
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTDeclarator : 1
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTExpressionStatement : 2
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTParameterDeclaration : 2
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTReturnStatement : 1
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTLiteralExpression : 7
+Assoc#7
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTSimpleDeclaration : 2
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTFunctionDefinition : 3
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTIfStatement : 1
+Assoc#8
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTSimpleDeclaration : 4
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTFunctionDefinition : 51
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTLinkageSpecification : 1
+Assoc#9
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTSimpleDeclaration : 7
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTDeclarationStatement : 20
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTFunctionDefinition : 9
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTLinkageSpecification : 1
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTIfStatement : 7
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTForStatement : 3
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTExpressionStatement : 27
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTWhileStatement : 1
+Assoc#10
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTSimpleDeclaration : 3
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTExpressionStatement : 1
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTLiteralExpression : 10
+Assoc#11
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTEnumerator : 3
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTDeclarator : 1
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTExpressionStatement : 2
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTLiteralExpression : 7
+Assoc#12
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTSimpleDeclaration : 85
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTFunctionDefinition : 6
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTDeclarator : 2
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTCaseStatement : 2
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTExpressionStatement : 2
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTParameterDeclaration : 2
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTName : 1
+Assoc#13
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTSimpleDeclaration : 45
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTFunctionDefinition : 3
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTCaseStatement : 1
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTParameterDeclaration : 3
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTReturnStatement : 1
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTLiteralExpression : 23
+Assoc#14
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTSimpleDeclaration : 5
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTNullStatement : 1
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTExpressionStatement : 2
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTParameterDeclaration : 1
+Assoc#15
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTSimpleDeclaration : 1
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTDeclarationStatement : 1
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTExpressionStatement : 1
+Assoc#16
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTSimpleDeclaration : 1
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTIfStatement : 1
+Assoc#17
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTSimpleDeclaration : 1
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTDeclarationStatement : 1
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTExpressionStatement : 1
+Assoc#18
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTSimpleDeclaration : 1
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTNullStatement : 1
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTIfStatement : 3
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTExpressionStatement : 5
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTReturnStatement : 1
+Assoc#19
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTSimpleDeclaration : 2
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTEnumerator : 3
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTFunctionDefinition : 2
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTExpressionStatement : 11
+Assoc#20
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTSimpleDeclaration : 19
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTFunctionDefinition : 6
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTDeclarationStatement : 1
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTIfStatement : 4
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTExpressionStatement : 3
+Assoc#21
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTExpressionStatement : 3
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTWhileStatement : 1
+Assoc#22
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTCompoundStatement : 1
+Assoc#23
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTIfStatement : 1
+Assoc#24
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTIfStatement : 1
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTExpressionStatement : 1
+Assoc#25
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTSimpleDeclaration : 3
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTEnumerator : 1
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTFunctionDefinition : 3
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTIfStatement : 2
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTExpressionStatement : 1
+Assoc#26
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTSimpleDeclaration : 4
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTFunctionDefinition : 3
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTArrayModifier : 1
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTIfStatement : 2
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTExpressionStatement : 2
+Assoc#27
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTSimpleDeclaration : 1
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTExpressionStatement : 1
+Assoc#28
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTExpressionStatement : 2
+Assoc#29
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTExpressionStatement : 1
+Assoc#30
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTExpressionStatement : 2
+Assoc#31
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTSimpleDeclaration : 1
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTIfStatement : 1
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTExpressionStatement : 1
+Assoc#32
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTIfStatement : 1
+Assoc#33
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTSimpleDeclaration : 32
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTFunctionDefinition : 1
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTFunctionDeclarator : 1
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTExpressionStatement : 2
+Assoc#34
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTSimpleDeclaration : 2
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTDeclarator : 1
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTExpressionStatement : 1
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTParameterDeclaration : 2
+Assoc#35
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTSimpleDeclaration : 1
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTExpressionStatement : 2
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTReturnStatement : 1
+Assoc#36
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTSimpleDeclaration : 7
+Assoc#37
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTSimpleDeclaration : 2
+Assoc#38
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTSimpleDeclaration : 1
+Assoc#39
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTSimpleDeclaration : 25
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTDeclarationStatement : 2
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTDeclarator : 2
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTIfStatement : 1
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTFunctionDeclarator : 1
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTExpressionStatement : 29
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTParameterDeclaration : 16
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTReturnStatement : 1
+Assoc#40
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTSimpleDeclaration : 1
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTExpressionStatement : 3
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTParameterDeclaration : 3
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTReturnStatement : 1
+Assoc#41
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTSimpleDeclaration : 6
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTProblemDeclaration : 3
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTFunctionDefinition : 2
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTDeclarator : 1
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTParameterDeclaration : 2
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTName : 1
+Assoc#42
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTDeclarationStatement : 1
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTDeclarator : 1
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTExpressionStatement : 2
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTParameterDeclaration : 3
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTReturnStatement : 1
+Assoc#43
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTIfStatement : 1
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTExpressionStatement : 3
+Assoc#44
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTSimpleDeclaration : 3
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTFunctionDefinition : 1
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTIfStatement : 1
+Assoc#45
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTSimpleDeclaration : 4
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTFunctionDefinition : 2
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTDeclarator : 1
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTParameterDeclaration : 1
+Assoc#46
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTExpressionStatement : 3
+Assoc#47
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTProblemDeclaration : 2
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTSimpleDeclaration : 2
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTFunctionDefinition : 2
+Assoc#48
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTSimpleDeclaration : 6
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTInitializerList : 1
+Assoc#49
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTProblemDeclaration : 1
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTSimpleDeclaration : 1
+Assoc#50
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTProblemDeclaration : 1
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTSimpleDeclaration : 3
+Assoc#51
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTProblemDeclaration : 1
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTSimpleDeclaration : 3
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTFunctionDefinition : 1
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTParameterDeclaration : 2
+Assoc#52
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTExpressionStatement : 1
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTParameterDeclaration : 1
+Assoc#53
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTFunctionDefinition : 3
+Assoc#54
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTNullStatement : 1
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTExpressionStatement : 2
+Assoc#55
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTFunctionDefinition : 1
+Assoc#56
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTSimpleDeclaration : 1
+Assoc#57
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTSimpleDeclaration : 1
+Assoc#58
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTExpressionStatement : 2
+Assoc#59
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTProblemDeclaration : 1
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTSimpleDeclaration : 1
+Assoc#60
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTSimpleDeclaration : 1
+Scattering:
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTTranslationUnit : 3.033333333333333
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTFunctionDefinition : 10.583333333333334
+Scattering per order:
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTTranslationUnit : 2.2333333333333334, 0.6666666666666666, 0.13333333333333333, 
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTFunctionDefinition : 9.466666666666667, 1.0166666666666666, 0.1, 
+Tangling:
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTTranslationUnit : 3.263157894736842
+org.eclipse.cdt.internal.core.dom.parser.cpp.CPPASTFunctionDefinition : 1.2470817120622568
+Dependencies:
+Coupling:
+Cohesion:
